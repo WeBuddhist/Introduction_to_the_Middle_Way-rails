@@ -1,4 +1,5 @@
 {
   "textFontFamily": "Qomolangma-Uchen Sarchung",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 21
 }
