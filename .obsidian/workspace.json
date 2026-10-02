@@ -199,8 +199,10 @@
   },
   "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
-    "0-INBOX/temp/dbu-ma-la-jug-pa-quatrains.md",
+    "1-SOURCES/About Sources.md",
+    "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
     "1-SOURCES/Text/Ch_3CCd_.md",
+    "0-INBOX/temp/dbu-ma-la-jug-pa-quatrains.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
@@ -232,8 +234,6 @@
     "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
     "4-SYSTEM/Skills/glossary-combine/SKILL.md",
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md"
+    "4-SYSTEM/Skills/format-commentary/SKILL.md"
   ]
 }
