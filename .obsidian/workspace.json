@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "དབུ་མ་འཇུག་པ།"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "1-SOURCES/Text/Ch_3CCd_.md",
+    "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -211,7 +213,6 @@
     "CLAUDE.md",
     "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__/tipitaka_org_atthakatha.cpython-310.pyc",
     "4-SYSTEM/Skills/json-to-commentary/scripts/converters/tipitaka_org_atthakatha.py",
-    "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
     "4-SYSTEM/Skills/vault-audit/SKILL.md",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
     "4-SYSTEM/Skills/epub-to-markdown/SKILL.md",
-    "4-SYSTEM/Skills/create-skill/SKILL.md",
-    "4-SYSTEM/Skills/commentary-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/create-skill/SKILL.md"
   ]
 }
