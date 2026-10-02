@@ -199,6 +199,7 @@
   },
   "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "0-INBOX/temp/dbu-ma-la-jug-pa-quatrains.md",
     "1-SOURCES/Text/Ch_3CCd_.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
     "4-SYSTEM/Skills/format-commentary/SKILL.md",
     "4-SYSTEM/Skills/format-root-text/SKILL.md",
-    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md",
-    "4-SYSTEM/Skills/create-skill/SKILL.md"
+    "4-SYSTEM/Skills/epub-to-markdown/SKILL.md"
   ]
 }
