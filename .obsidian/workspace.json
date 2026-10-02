@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 276.16668701171875
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -214,6 +214,10 @@
   },
   "active": "f4c20b39fcbdf7d8",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊཱི་ཀ.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
+    "1-SOURCES/Commentaries/དབུ་མ་དགོངས་པ་རབ་གསལ།.md",
     "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
     "0-INBOX/temp/mav-ids-1.md",
     "0-INBOX/temp/mav-ids-pre.md",
@@ -245,10 +249,6 @@
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/property-creator/SKILL.md",
-    "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
-    "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
-    "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md",
-    "4-SYSTEM/Skills/interlinear-gloss/SKILL.md"
+    "4-SYSTEM/Skills/json-to-source-text/SKILL.md"
   ]
 }
