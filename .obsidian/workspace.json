@@ -34,6 +34,16 @@
               "icon": "lucide-file",
               "title": "དབུ་མ་དགོངས་པ་རབ་གསལ།"
             }
+          },
+          {
+            "id": "08e02a49053f5224",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 1
@@ -95,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -215,8 +226,8 @@
   },
   "active": "f4c20b39fcbdf7d8",
   "lastOpenFiles": [
-    "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
     "1-SOURCES/Commentaries/དབུ་མ་དགོངས་པ་རབ་གསལ།.md",
+    "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊཱི་ཀ.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
