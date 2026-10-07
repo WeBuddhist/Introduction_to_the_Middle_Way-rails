@@ -199,8 +199,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -226,6 +226,10 @@
   },
   "active": "f4c20b39fcbdf7d8",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/དབུ་མ་དགོངས་པ་རབ་གསལ།.md",
     "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊཱི་ཀ.md",
@@ -238,10 +242,6 @@
     "1-SOURCES/Text/Ch_3CCd_.md",
     "0-INBOX/temp/dbu-ma-la-jug-pa-quatrains.md",
     "README.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
@@ -260,7 +260,6 @@
     "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/property-creator/SKILL.md",
-    "4-SYSTEM/Skills/json-to-source-text/SKILL.md"
+    "4-SYSTEM/Skills/property-creator/SKILL.md"
   ]
 }
