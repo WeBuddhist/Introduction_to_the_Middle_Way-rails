@@ -199,6 +199,8 @@
   },
   "active": "08e02a49053f5224",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོའི་འགྲེལ་པ།.md",
+    "1-SOURCES/Commentaries/ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོའི་འགྲེལ་པ།.md.txt",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊཱི་ཀ.md",
     "1-SOURCES/Commentaries/ཛ་ཡ་ཨཱ་ནན་དའི་འགྲེལ་པ།.md",
     "1-SOURCES/Commentaries/ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོའི་འགྲེལ་པ།.txt",
@@ -225,7 +227,6 @@
     "gemini-scribe/Prompts",
     "gemini-scribe",
     "CLAUDE.md",
-    "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__/tipitaka_org_atthakatha.cpython-310.pyc",
     "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
     "4-SYSTEM/Skills/verse-context/SKILL.md",
     "4-SYSTEM/Skills/vault-audit/SKILL.md",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/source-property-extractor/SKILL.md",
     "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
     "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/section-summary-raw/SKILL.md"
   ]
 }
