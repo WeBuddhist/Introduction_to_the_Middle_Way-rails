@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
+                "file": "1-SOURCES/Commentaries/པཎ་ཆེན་ཤཱཀྱ་མཆོག་ལྡན་གྱི་འགྲེལ་བ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དབུ་མ་འཇུག་པ།"
+              "title": "པཎ་ཆེན་ཤཱཀྱ་མཆོག་ལྡན་གྱི་འགྲེལ་བ།"
             }
           }
         ]
@@ -199,17 +199,18 @@
   },
   "active": "08e02a49053f5224",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/རྒྱལ་དབང་ལྔ་པའི་འགྲེལ་པ།.md",
+    "1-SOURCES/Commentaries/བསྟན་བཅོས་ཆེན་པོ་དབུ་མ་ལ་འཇུག་པ་གསལ་བར་བྱེད་པ་ཐེག་ཆེན་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་རྫིངས།.md",
+    "1-SOURCES/Commentaries/པཎ་ཆེན་ཤཱཀྱ་མཆོག་ལྡན་གྱི་འགྲེལ་བ།.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊཱི་ཀ.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
+    "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
     "1-SOURCES/Commentaries/ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོའི་འགྲེལ་པ།.md",
     "1-SOURCES/Commentaries/དབུ་མ་དགོངས་པ་རབ་གསལ།.md",
     "1-SOURCES/Commentaries/ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོའི་འགྲེལ་པ།.md.txt",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊཱི་ཀ.md",
     "1-SOURCES/Commentaries/ཛ་ཡ་ཨཱ་ནན་དའི་འགྲེལ་པ།.md",
     "1-SOURCES/Commentaries/ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོའི་འགྲེལ་པ།.txt",
-    "1-SOURCES/Commentaries/པཎ་ཆེན་ཤཱཀྱ་མཆོག་ལྡན་གྱི་འགྲེལ་བ།.md",
-    "1-SOURCES/Commentaries/རྒྱལ་དབང་ལྔ་པའི་འགྲེལ་པ།.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
-    "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/translation-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/source-property-extractor/SKILL.md",
     "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-raw/SKILL.md"
+    "4-SYSTEM/Skills/section-summary-combined/SKILL.md"
   ]
 }
