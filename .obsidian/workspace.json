@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
+                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།"
+              "title": "དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།"
             }
           }
         ]
@@ -200,9 +200,11 @@
   },
   "active": "0fe427b5662ca5ec",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/tika_full_segmented.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
+    "1-SOURCES/Commentaries/ཊཱི་ཀ་ལུང་འདྲེན་ཚིག་བཅད་བཏུབས་པ.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
     "1-SOURCES/Commentaries/དཔེ་མཚོན་ཡིག་ཆ།.md",
     "1-SOURCES/Commentaries/ཛ་ཡ་ཨཱ་ནན་དའི་འགྲེལ་པ་གཏུབ་ཟིན།.md",
@@ -231,10 +233,8 @@
     "0-INBOX/temp/dbu-ma-la-jug-pa-quatrains.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
-    "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
     "gemini-scribe/Prompts",
-    "gemini-scribe",
-    "CLAUDE.md"
+    "gemini-scribe"
   ]
 }
