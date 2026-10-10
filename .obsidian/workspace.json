@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
+                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།"
-            }
-          },
-          {
-            "id": "9648c6168590fa60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/TOCs/toc-tree-dgongs-pa-rab-gsal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "toc-tree-dgongs-pa-rab-gsal"
+              "title": "དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,43 +198,43 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "9648c6168590fa60",
+  "active": "0fe427b5662ca5ec",
   "lastOpenFiles": [
+    "0-INBOX/temp/TOC-shel-phreng/candidates/chunk_007.md",
+    "0-INBOX/temp/TOC-shel-phreng/candidates/chunk_005.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_003.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_006.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_002.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_005.md",
+    "0-INBOX/temp/TOC-shel-phreng/candidates/chunk_008.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_001.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_000.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_000.md.tmp.9856.3b195a283eb8",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_008.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_010.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_004.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_007.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations/chunk_009.md",
+    "0-INBOX/temp/TOC-shel-phreng/candidates/chunk_009.md",
+    "0-INBOX/temp/TOC-shel-phreng/candidates/chunk_010.md",
+    "0-INBOX/temp/TOC-shel-phreng/enumerations",
+    "0-INBOX/temp/TOC-shel-phreng/candidates",
+    "0-INBOX/temp/TOC-shel-phreng/chunk-index.tsv",
+    "0-INBOX/temp/TOC-shel-phreng",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
+    "0-INBOX/TOCs/toc-tree-dgongs-pa-rab-gsal.md",
     "0-INBOX/TOCs/toc-tree-qc-source-dgongs-pa-rab-gsal.md",
     "0-INBOX/TOCs/toc-tree-qc-dgongs-pa-rab-gsal.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
     "conflict-files-obsidian-git.md",
     "0-INBOX/temp/toc-tree-qc-source-dgongs-pa-rab-gsal.md",
     "0-INBOX/temp/toc-tree-qc-dgongs-pa-rab-gsal.md",
     "0-INBOX/temp/toc-tree-dgongs-pa-rab-gsal.md",
     "0-INBOX/temp/toc-enumerations-dgongs-pa-rab-gsal.md",
     "0-INBOX/temp/toc-candidates-dgongs-pa-rab-gsal.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_021.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_020.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_019.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_018.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_017.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_016.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_015.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_014.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_013.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_012.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_011.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_010.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_009.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_008.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_007.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_006.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_005.md",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/enumerations",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/chunk-index.tsv",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal",
-    "0-INBOX/TOCs",
-    "1-SOURCES/Commentaries/ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོའི་འགྲེལ་པ།.md.txt",
-    "1-SOURCES/Commentaries/ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོའི་འགྲེལ་པ།.txt",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks"
+    "0-INBOX/TOCs"
   ]
 }
