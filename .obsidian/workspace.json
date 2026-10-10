@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ_གཏུབ་ཟིན།.md",
+                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ_གཏུབ་ཟིན།"
+              "title": "དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།"
             }
           }
         ]
@@ -200,11 +200,12 @@
   },
   "active": "0fe427b5662ca5ec",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/དཔེ་མཚོན་ཡིག་ཆ།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ_གཏུབ་ཟིན།.md",
-    "1-SOURCES/Commentaries/tika_full_segmented.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ_གཏུབ་ཟིན། (1).md",
+    "1-SOURCES/Commentaries/དཔེ་མཚོན་ཡིག་ཆ།.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ_གཏུབ་ཟིན།.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
+    "1-SOURCES/Commentaries/tika_full_segmented.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
     "1-SOURCES/Commentaries/ཊཱི་ཀ་ལུང་འདྲེན་ཚིག་བཅད་བཏུབས་པ.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
@@ -231,7 +232,6 @@
     "0-INBOX/temp/mav-ids.md",
     "1-SOURCES/About Sources.md",
     "1-SOURCES/Text/Ch_3CCd_.md",
-    "0-INBOX/temp/dbu-ma-la-jug-pa-quatrains.md",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Scheduled-Tasks",
     "gemini-scribe/Prompts",
