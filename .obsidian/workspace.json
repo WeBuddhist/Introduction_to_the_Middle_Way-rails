@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "867969541fe0f4a9",
+        "id": "8896e91e801fbab2",
         "type": "tabs",
         "children": [
           {
-            "id": "0fe427b5662ca5ec",
+            "id": "d066ca5c15f520a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
+                "file": "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།"
+              "title": "དབུ་མ་འཇུག་པ།"
+            }
+          },
+          {
+            "id": "08e02a49053f5224",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -198,43 +210,43 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "0fe427b5662ca5ec",
+  "active": "08e02a49053f5224",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ_གཏུབ་ཟིན། (1).md",
-    "1-SOURCES/Commentaries/དཔེ་མཚོན་ཡིག་ཆ།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ_གཏུབ་ཟིན།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
-    "1-SOURCES/Commentaries/tika_full_segmented.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
-    "1-SOURCES/Commentaries/ཊཱི་ཀ་ལུང་འདྲེན་ཚིག་བཅད་བཏུབས་པ.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
-    "1-SOURCES/Commentaries/ཛ་ཡ་ཨཱ་ནན་དའི་འགྲེལ་པ་གཏུབ་ཟིན།.md",
-    "1-SOURCES/Commentaries/ཛ་ཡ་ཨཱ་ནན་དའི་འགྲེལ་པ།.md",
-    "1-SOURCES/Commentaries/D3862_gtub.md",
-    "1-SOURCES/Commentaries/D3862_joined.md",
-    "1-SOURCES/Commentaries/བསྟན་བཅོས་ཆེན་པོ་དབུ་མ་ལ་འཇུག་པ་གསལ་བར་བྱེད་པ་ཐེག་ཆེན་རྒྱ་མཚོར་འཇུག་པའི་གྲུ་རྫིངས།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊི་ཀ།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊཱི་ཀ.md",
-    "1-SOURCES/Commentaries/པཎ་ཆེན་ཤཱཀྱ་མཆོག་ལྡན་གྱི་འགྲེལ་བ།.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ_གཏུབ་ཟིན། (1).md",
     "1-SOURCES/Commentaries/དབུ་མ་དགོངས་པ་རབ་གསལ།.md",
-    "1-SOURCES/Commentaries/ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོའི་འགྲེལ་པ།.md",
-    "1-SOURCES/Commentaries/རྒྱལ་དབང་ལྔ་པའི་འགྲེལ་པ།.md",
+    "1-SOURCES/Commentaries/དཔེ་མཚོན་ཡིག་ཆ།.md",
     "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
-    "1-SOURCES/Commentaries/ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོའི་འགྲེལ་པ།.md.txt",
-    "1-SOURCES/Commentaries/ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོའི་འགྲེལ་པ།.txt",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ངེས་དོན་གནད་ཀྱི་ཊཱི་ཀ.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
     "0-INBOX/temp/mav-ids-1.md",
     "0-INBOX/temp/mav-ids-pre.md",
     "0-INBOX/temp/mav-ids.md",
     "1-SOURCES/About Sources.md",
     "1-SOURCES/Text/Ch_3CCd_.md",
+    "0-INBOX/temp/dbu-ma-la-jug-pa-quatrains.md",
+    "README.md",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
     "gemini-scribe/Prompts",
-    "gemini-scribe"
+    "gemini-scribe",
+    "CLAUDE.md",
+    "4-SYSTEM/Skills/json-to-commentary/scripts/converters/__pycache__/tipitaka_org_atthakatha.cpython-310.pyc",
+    "4-SYSTEM/Skills/json-to-commentary/scripts/converters/tipitaka_org_atthakatha.py",
+    "4-SYSTEM/Skills/epub-to-markdown/converters/README.md",
+    "4-SYSTEM/Skills/verse-context/SKILL.md",
+    "4-SYSTEM/Skills/vault-audit/SKILL.md",
+    "4-SYSTEM/Skills/translation-frontmatter/SKILL.md",
+    "4-SYSTEM/Skills/source-property-extractor/SKILL.md",
+    "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
+    "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
+    "4-SYSTEM/Skills/section-summary-raw/SKILL.md"
   ]
 }
