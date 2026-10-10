@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/དཔེ་མཚོན་ཡིག་ཆ།.md",
+                "file": "0-INBOX/TOCs/toc-tree-dgongs-pa-rab-gsal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དཔེ་མཚོན་ཡིག་ཆ།"
+              "title": "toc-tree-dgongs-pa-rab-gsal"
             }
           }
         ],
@@ -213,8 +213,15 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "08e02a49053f5224",
   "lastOpenFiles": [
+    "0-INBOX/TOCs/toc-tree-qc-dgongs-pa-rab-gsal.md",
+    "0-INBOX/TOCs/toc-tree-qc-source-dgongs-pa-rab-gsal.md",
+    "1-SOURCES/Commentaries/དཔེ་མཚོན་ཡིག་ཆ།.md",
+    "0-INBOX/TOCs/toc-tree-dgongs-pa-rab-gsal.md",
+    "0-INBOX/temp/toc-tree-qc-source-dgongs-pa-rab-gsal.md",
+    "0-INBOX/temp/toc-tree-qc-dgongs-pa-rab-gsal.md",
+    "0-INBOX/temp/toc-tree-dgongs-pa-rab-gsal.md",
     "0-INBOX/temp/toc-enumerations-dgongs-pa-rab-gsal.md",
     "0-INBOX/temp/toc-candidates-dgongs-pa-rab-gsal.md",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/enumerations/chunk_019.md",
@@ -235,15 +242,8 @@
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/enumerations/chunk_015.md",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/enumerations/chunk_009.md",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/enumerations/chunk_001.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/enumerations/chunk_014.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/enumerations/chunk_012.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/enumerations/chunk_002.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_006.md",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_006.md.tmp.18824.7bfbdd5a9ee9",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/enumerations/chunk_004.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_004.md",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_004.md.tmp.18824.78b75fa2fb33",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/enumerations/chunk_005.md",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_020.md.tmp.18824.545b362ae611",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_021.md.tmp.18824.fd44752e4844",
     "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/candidates/chunk_003.md.tmp.18824.99a219a7cccd",
