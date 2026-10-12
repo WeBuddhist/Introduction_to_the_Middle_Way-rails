@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
+                "file": "0-INBOX/TOCs/toc-tree-dbu-ma-la-hjug-pa-bshad-pa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།"
+              "title": "toc-tree-dbu-ma-la-hjug-pa-bshad-pa"
             }
           }
         ]
@@ -199,8 +199,12 @@
   },
   "active": "0fe427b5662ca5ec",
   "lastOpenFiles": [
-    "0-INBOX/TOCs/toc-tree-shel-phreng.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
     "0-INBOX/TOCs/toc-tree-zab-rgyas.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
+    "0-INBOX/TOCs/toc-tree-shel-phreng.md",
     "0-INBOX/temp/sedqAvclJ",
     "0-INBOX/temp/toc-tree-qc-source-zab-rgyas.md",
     "4-SYSTEM/Skills/toc-generate/scripts/__pycache__/qc_check_tree.cpython-314.pyc",
@@ -225,10 +229,6 @@
     "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_050.md",
     "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_049.md",
     "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_049.md.tmp.11132.b452f772e4ad",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_058.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_044.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_042.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_043.md",
     "0-INBOX/temp/TOC-zab-rgyas/candidates/chunk_052.md.tmp.11132.4f1fe664ed5b",
     "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_021.md.tmp.17600.9c40b659fa31",
     "0-INBOX/temp/TOC-zab-rgyas/candidates/chunk_025.md.tmp.17600.c6869fe833ed",
