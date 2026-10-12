@@ -48,14 +48,7 @@
               "icon": "lucide-file",
               "title": "དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "4095259320f71b1b",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "caa3249ec314ccad",
             "type": "leaf",
@@ -70,7 +63,8 @@
               "title": "དབུ་མ་འཇུག་པ།"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.16668701171875,
-    "collapsed": true
+    "width": 396.16668701171875
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -248,12 +241,12 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "0fe427b5662ca5ec",
+  "active": "1a7ed50a71ed46d1",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
     "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
     "0-INBOX/TOCs/toc-tree-zab-rgyas.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
     "4-SYSTEM/Skills/transclusion/SKILL.md",
     "0-INBOX/temp/transclusion-dgongs-pa/verified-placements-ch1-5.md",
