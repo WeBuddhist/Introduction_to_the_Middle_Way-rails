@@ -1,0 +1,18 @@
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.1.4", "status": "placed", "line": 5166, "before": "༈བཞི་པ་དྲན་པ་སྐྱེ་ཚུལ་གྱི་ཁྱད་པར་", "occ": 1, "conf": "high", "note": "Paragraph starts with a ༈ mark; snippet includes it."}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.2", "status": "placed", "line": 5191, "before": "༈གཉིས་པ་རང་ལུགས་བཞག་པ་ལ།", "occ": 1, "conf": "high", "note": "Paragraph starts with ༈; same line also enumerates 4 children."}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.2.1", "status": "placed", "line": 5191, "before": "དང་པོ་ནི། ཤེས་བྱ་ཆོས་ཅན། རང་རིག་འདོད་མཁན་ཡོད་དེ།", "occ": 1, "conf": "high", "note": "Mid-line body opener after the enumeration."}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.2.2", "status": "placed", "line": 5197, "before": "༈གཉིས་པ་རང་རིག་གི་གོ་དོན་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.2.3", "status": "placed", "line": 5209, "before": "༈གསུམ་པ་གཞན་གྱིས་རང་རིག་ཡོད་པར་སྒྲུབ་ཚུལ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.2.4", "status": "placed", "line": 5250, "before": "༈བཞི་པ་དེ་དབུ་མ་པས་བཀག་ཚུལ་ནི།", "occ": 1, "conf": "high", "note": "Line also enumerates five reasons."}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.2.4.1", "status": "placed", "line": 5250, "before": "དང་པོ་ནི། དངོས་སྨྲ་ཁྱོད་ཀྱིས་མར་མེས་རང་དང་", "occ": 1, "conf": "high", "note": "Mid-line opener of first reason (རྩོད་བཟློག་)."}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.2.4.2", "status": "placed", "line": 5256, "before": "གཉིས་པ་ནི། དངོས་སྨྲ་ཁྱོད་ཀྱིས་སེམས་ཀྱིས་རང་ཉིད་", "occ": 1, "conf": "high", "note": "Second reason; quotes ཞིབ་མོ་རྣམ་འཐག."}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.2.4.3", "status": "placed", "line": 5260, "before": "གསུམ་པ་ནི། དངོས་སྨྲ་ཁྱོད་ཀྱི་སེམས་ཀྱི་སྟེང་ནས་", "occ": 1, "conf": "med", "note": "Third reason (ལེགས་ལྡན་ཡབ་སྲས); label not verbatim in text."}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.2.4.4", "status": "placed", "line": 5274, "before": "བཞི་པ་མདོ་དང་སྤྱོད་འཇུག་ལས་བཀག་ཚུལ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.2.4.5", "status": "placed", "line": 5287, "before": "༈ལྔ་པ་ནི། དཔལ་ལྡན་ཟླ་བའི་ལུང་རིགས་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.1.3", "status": "placed", "line": 5308, "before": "༈གསུམ་པ་རྩོད་པ་སྤོང་བ་ལ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.2", "status": "placed", "line": 5371, "before": "༈གཉིས་པ་ཐལ་འགྱུར་བའི་ལུགས་ཀྱི་ཚད་མའི་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.2.1", "status": "placed", "line": 5371, "before": "དང་པོ་ལ། དགོས་པ་ལ་དཔྱད་པ་དང་།", "occ": 1, "conf": "med", "note": "Mid-line: དགག་བཞག་སྤངས་གསུམ་ལས། དང་པོ་ལ། ; the first (དགག) is announced here and then opened below at its own sentence."}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.2.1.1", "status": "placed", "line": 5371, "before": "དང་པོ་ལ་ཁ་ཅིག་ན་རེ། ཚད་མའི་རྣམ་བཞག་", "occ": 1, "conf": "med", "note": "Preceded by fused དྲུག without shad; opener of the first (དགོས་པ་) item."}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.2.1.2", "status": "placed", "line": 5387, "before": "༈གཉིས་པ་སྒྲ་དོན་དཔྱད་པ་ལ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.2.1.3", "status": "placed", "line": 5425, "before": "༈གསུམ་པ་ཚད་མའི་མཚན་ཉིད་ལ་དཔྱད་པ་ལ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.2.1.2.2.1.4", "status": "placed", "line": 5483, "before": "༈བཞི་པ་ཚད་མའི་དབྱེ་བ་འབྱེད་བྱེད་ལ་དཔྱད་པ་ལ།", "occ": 1, "conf": "high", "note": ""}

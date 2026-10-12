@@ -1,0 +1,37 @@
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.3.1", "status": "placed", "line": 6446, "before": "གསུམ་པ་དེ་གཉིས་ཀྱི་ལྷག་མའི་ཕྱོགས་", "occ": 1, "conf": "high", "note": "stacked with parent entry 3 (same paragraph)"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.3.2", "status": "placed", "line": 6456, "before": "གཉིས་པ་བཀག་པ་རྣམས་ཀྱི་དོན་བསྡམས་ཏེ་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": "mid-paragraph; text spells བསྡམས"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.4", "status": "placed", "line": 6471, "before": "བཞི་པ་དེ་ཉིད་དང་གཞན་ཉིད་དུ་མེད་པའི་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.4.1", "status": "placed", "line": 6471, "before": "བཞི་པ་དེ་ཉིད་དང་གཞན་ཉིད་དུ་མེད་པའི་", "occ": 1, "conf": "med", "note": "stacked with 1.1.4; the 'དང་པོ་ནི།' ends the same paragraph"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.4.2", "status": "placed", "line": 6477, "before": "གཉིས་པ་ལུགས་དེ་དགག་པ་ནི།", "occ": 1, "conf": "high", "note": "mid-paragraph"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.5", "status": "placed", "line": 6491, "before": "༈ལྔ་པ་བདག་བརྟེན་ནས་བཏགས་པ་ཙམ་དུ་", "occ": 1, "conf": "high", "note": "snippet begins with the ༈ mark"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.5.1", "status": "placed", "line": 6491, "before": "༈ལྔ་པ་བདག་བརྟེན་ནས་བཏགས་པ་ཙམ་དུ་", "occ": 1, "conf": "med", "note": "stacked with 1.1.5; 'དང་པོ་ནི།' ends the paragraph"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.5.2", "status": "placed", "line": 6497, "before": "༈གཉིས་པ་སྔར་མ་བཤད་པའི་ཕྱོགས་ལྷག་མ་", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.5.2.1", "status": "placed", "line": 6497, "before": "༈གཉིས་པ་སྔར་མ་བཤད་པའི་ཕྱོགས་ལྷག་མ་", "occ": 1, "conf": "med", "note": "stacked with 1.1.5.2 and 1.1.5.2.1.1"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.5.2.1.1", "status": "placed", "line": 6497, "before": "༈གཉིས་པ་སྔར་མ་བཤད་པའི་ཕྱོགས་ལྷག་མ་", "occ": 1, "conf": "med", "note": "stacked; paragraph ends 'དང་པོ་ནི།' for ཚོགས་པ་ཤིང་རྟར་འདོད་པ་དགག་པ"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.5.2.1.2", "status": "placed", "line": 6503, "before": "གཉིས་པ་དབྱིབས་ཙམ་ཤིང་རྟར་འདོད་པ་", "occ": 1, "conf": "high", "note": "mid-paragraph"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.5.2.2", "status": "placed", "line": 6515, "before": "གཉིས་པ་རིགས་པ་དེ་གཞན་ལ་ཁ་སྤོ་བ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.5.3", "status": "placed", "line": 6523, "before": "གསུམ་པ་དེ་ལྟར་བཤད་པ་ལ་གཞན་གྱི་རྩོད་པ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.5.4", "status": "placed", "line": 6527, "before": "༈བཞི་པ་མིང་གི་ཐ་སྙད་ཀྱི་དོན་གཞན་", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.6", "status": "placed", "line": 6537, "before": "༈དྲུག་པ་དེ་ལྟར་བཞག་པ་ལ་མཐར་འཛིན་", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.6.1", "status": "placed", "line": 6537, "before": "༈དྲུག་པ་དེ་ལྟར་བཞག་པ་ལ་མཐར་འཛིན་", "occ": 1, "conf": "med", "note": "stacked with 1.1.6; 'དང་པོ་ནི།' ends paragraph"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.6.2", "status": "placed", "line": 6543, "before": "༈གཉིས་པ་དེ་ལ་རྩོད་པ་སྤང་བ་ནི།", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.6.3", "status": "placed", "line": 6553, "before": "༈གསུམ་པ་ཤིང་རྟ་དང་བདག་གི་ཐ་སྙད་", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.6.4", "status": "placed", "line": 6559, "before": "༈བཞི་པ་བརྟེན་ནས་བཏགས་པའི་བདག་", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.6.5", "status": "placed", "line": 6569, "before": "༈ལྔ་པ་མཁས་རྨོངས་ཀྱི་འཆིང་གྲོལ་", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.2", "status": "placed", "line": 6577, "before": "གཉིས་པ་བདག་གི་བ་རང་བཞིན་གྱིས་", "occ": 1, "conf": "high", "note": "mid-paragraph"}
+{"id": "3.2.1.1.2.3.5.2.2.2.2", "status": "placed", "line": 6581, "before": "༈གཉིས་པ་མཐའ་དཔྱད་པ་ལ་དགག་བཞག་སྤང་", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.1", "status": "placed", "line": 6581, "before": "༈གཉིས་པ་མཐའ་དཔྱད་པ་ལ་དགག་བཞག་སྤང་", "occ": 1, "conf": "med", "note": "stacked with 2 (same paragraph; དང་པོ་ announced in the list)"}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.1.1", "status": "placed", "line": 6581, "before": "དང་པོ་ལ་འཇིག་ལྟས་ཕུང་པོ་ལ་ཡང་", "occ": 1, "conf": "med", "note": "mid-paragraph, after the list of four ends; could alternatively be stacked at paragraph start"}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.1.2", "status": "placed", "line": 6632, "before": "གཉིས་པ་གདགས་གཞི་གདགས་ཆོས་འཇོག་ཚུལ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.1.3", "status": "placed", "line": 6694, "before": "གསུམ་པ་བདག་འགོག་ཚུལ་ལ་དཔྱད་པ་ལ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.1.4", "status": "not_found", "note": "No announcement of the fourth part (རྒྱུད་གཅིག་གི་ལྡོག་པ་འབྱེད་ཚུལ་) found between 2.1.3 (line 6694) and 2.2 (line 6715); only listed in the enumeration at line 6581."}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.2", "status": "placed", "line": 6715, "before": "གཉིས་པ་རང་ལུགས་བཞག་པ་ལ། གཞན་སྡེའི་", "occ": 1, "conf": "high", "note": "mid-paragraph"}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.2.1", "status": "placed", "line": 6715, "before": "དང་པོ་ནི། གཞན་སྡེ་ཐམས་ཅད་ཀྱིས་བདག་", "occ": 1, "conf": "med", "note": "mid-paragraph; split before 'དང་པོ་ནི།'"}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.2.2", "status": "placed", "line": 6719, "before": "གཉིས་པ་རང་སྡེའི་འདོད་ཚུལ་ལ་རང་སྡེ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.2.2.1", "status": "placed", "line": 6719, "before": "དང་པོ་ནི། མང་བཀུར་བ་རྣམས་ནི་ཕུང་པོ་", "occ": 1, "conf": "med", "note": "mid-paragraph; split before 'དང་པོ་ནི།'"}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.2.2.2", "status": "placed", "line": 6721, "before": "༈གཉིས་པ་སྐབས་འདིའི་རང་ལུགས་ལ་གང་ཟག་གི་", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.2.2.2.1", "status": "placed", "line": 6721, "before": "དང་པོ་ནི། གདགས་གཞི་ཕུང་པོ་ལ་བརྟེན་ནས་", "occ": 1, "conf": "med", "note": "mid-paragraph; split before 'དང་པོ་ནི།'"}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.2.2.2.2", "status": "placed", "line": 6725, "before": "༈གཉིས་པ་སྒྲ་བཤད་ནི།", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.2.2.2.3", "status": "placed", "line": 6727, "before": "༈གསུམ་པ་དབྱེ་བ་ལ།", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.2.2.2.4", "status": "placed", "line": 6729, "before": "བཞི་པ་ཐ་སྙད་དུ་བདག་འཇོག་ཚུལ་ཡོད་དེ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.2.3", "status": "placed", "line": 6735, "before": "༈གསུམ་པ་རྩོད་སྤོང་ལ་ཁོ་ན་རེ།", "occ": 1, "conf": "high", "note": "snippet begins with ༈"}

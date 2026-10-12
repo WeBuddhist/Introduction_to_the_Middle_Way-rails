@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-SYSTEM/Skills/add-block-ids/SKILL.md",
+                "file": "4-SYSTEM/Skills/transclusion/SKILL.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
+                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།"
+              "title": "དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,43 +241,43 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "0fe427b5662ca5ec",
+  "active": "1a7ed50a71ed46d1",
   "lastOpenFiles": [
+    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_21.jsonl",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_20.jsonl",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_23.jsonl",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_08.jsonl",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_09.jsonl",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_14.jsonl",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_01.jsonl",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_11.jsonl",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_15.jsonl",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_16.jsonl",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_24.jsonl",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
-    "0-INBOX/TOCs/toc-tree-zab-rgyas.md",
-    "0-INBOX/TOCs/toc-tree-shel-phreng.md",
-    "0-INBOX/TOCs/toc-tree-dgongs-pa-rab-gsal.md",
-    "0-INBOX/TOCs/toc-tree-dbu-ma-la-hjug-pa-bshad-pa.md",
-    "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
+    "4-SYSTEM/Skills/transclusion/SKILL.md",
+    "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
-    "0-INBOX/temp/s1.md",
-    "0-INBOX/temp/orig.md",
-    "0-INBOX/temp/scratch.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
-    "0-INBOX/temp/shelphreng-scratch.md",
-    "4-SYSTEM/Skills/add-block-ids/SKILL.md",
-    "0-INBOX/temp/TOC-dbu-ma-la-hjug-pa-bshad-pa/pre-toc-ingest-backup.md",
-    "0-INBOX/temp/TOC-shel-phreng/pre-toc-ingest-backup.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/headed-candidate.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_03.json",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_06.json",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_02.json",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_07.json",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_08.json",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_05.json",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_04.json",
-    "0-INBOX/temp/sed0w49HL",
-    "0-INBOX/temp/foot.md",
-    "0-INBOX/temp/head.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_01.json",
-    "0-INBOX/temp/sedU7NwwX",
-    "0-INBOX/temp/dbu-ma-scratch.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/source-snapshot.md",
-    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/pre-toc-ingest-backup.md",
-    "0-INBOX/temp/toc-tree-qc-source-zab-rgyas.md",
-    "0-INBOX/temp/toc-tree-qc-zab-rgyas.md",
-    "0-INBOX/temp/toc-tree-zab-rgyas.md",
-    "0-INBOX/temp/toc-enumerations-zab-rgyas.md"
+    "0-INBOX/TOCs/toc-tree-zab-rgyas.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_20.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_19.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_18.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_17.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_16.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_15.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_14.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_13.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_12.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_11.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_10.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_09.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_08.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_07.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_46.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_28.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_27.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_26.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_25.md",
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_24.md"
   ]
 }

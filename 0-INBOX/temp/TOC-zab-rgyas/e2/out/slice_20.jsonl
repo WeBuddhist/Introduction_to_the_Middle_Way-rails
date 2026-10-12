@@ -1,0 +1,35 @@
+{"id": "3.2.1.1.2.3.5.2.1.4", "status": "placed", "line": 6143, "before": "༈བཞི་པ་རིགས་པས་དཔྱད་པ་བྱས་པའི་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2", "status": "placed", "line": 6175, "before": "༈གཉིས་པ་གང་ཟག་གི་བདག་མེད་རིགས་པས་", "occ": 1, "conf": "high", "note": "stacked with 2.2.1 and 2.2.1.1"}
+{"id": "3.2.1.1.2.3.5.2.2.1", "status": "placed", "line": 6175, "before": "༈གཉིས་པ་གང་ཟག་གི་བདག་མེད་རིགས་པས་", "occ": 1, "conf": "high", "note": "stacked with 2.2"}
+{"id": "3.2.1.1.2.3.5.2.2.1.1", "status": "placed", "line": 6175, "before": "༈གཉིས་པ་གང་ཟག་གི་བདག་མེད་རིགས་པས་", "occ": 1, "conf": "med", "note": "stacked; its own དང་པོ་ནི། closes the same paragraph"}
+{"id": "3.2.1.1.2.3.5.2.2.1.2", "status": "placed", "line": 6185, "before": "༈གཉིས་པ་མཐའ་དཔྱད་པ་ལ།", "occ": 1, "conf": "high", "note": "stacked with 2.2.1.2.1"}
+{"id": "3.2.1.1.2.3.5.2.2.1.2.1", "status": "placed", "line": 6185, "before": "༈གཉིས་པ་མཐའ་དཔྱད་པ་ལ།", "occ": 1, "conf": "high", "note": "stacked with 2.2.1.2"}
+{"id": "3.2.1.1.2.3.5.2.2.1.2.2", "status": "placed", "line": 6267, "before": "གཉིས་པ་རང་ལུགས་བཞག་པ་ལ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.1.2.3", "status": "placed", "line": 6279, "before": "༈གསུམ་པ་རྩོད་སྤོང་ལ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2", "status": "placed", "line": 6281, "before": "༈གཉིས་པ་བདག་དང་བདག་གི་བ་རང་བཞིན་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces whole chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1", "status": "placed", "line": 6281, "before": "༈གཉིས་པ་བདག་དང་བདག་གི་བ་རང་བཞིན་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces whole chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1", "status": "placed", "line": 6281, "before": "༈གཉིས་པ་བདག་དང་བདག་གི་བ་རང་བཞིན་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces whole chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.1", "status": "placed", "line": 6281, "before": "༈གཉིས་པ་བདག་དང་བདག་གི་བ་རང་བཞིན་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces whole chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.1.1", "status": "placed", "line": 6281, "before": "༈གཉིས་པ་བདག་དང་བདག་གི་བ་རང་བཞིན་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces whole chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.1.1.1", "status": "placed", "line": 6281, "before": "༈གཉིས་པ་བདག་དང་བདག་གི་བ་རང་བཞིན་", "occ": 1, "conf": "med", "note": "stacked at 6281 (announced by final དང་པོ་ནི།); content itself begins at line 6283"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.1.1.2", "status": "placed", "line": 6285, "before": "༈གཉིས་པ་བྱེ་བྲག་པ་ལ་སོགས་པའི་ལུགས་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.1.2", "status": "placed", "line": 6287, "before": "གཉིས་པ་ལུགས་དེ་དགག་པ་ནི།", "occ": 1, "conf": "high", "note": "mid-paragraph, at end of line"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2", "status": "placed", "line": 6303, "before": "༈གཉིས་པ་རང་སྡེས་བཏགས་པའི་ཕུང་བོ་ཉིད་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.1", "status": "placed", "line": 6303, "before": "༈གཉིས་པ་རང་སྡེས་བཏགས་པའི་ཕུང་བོ་ཉིད་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.1.1", "status": "placed", "line": 6303, "before": "༈གཉིས་པ་རང་སྡེས་བཏགས་པའི་ཕུང་བོ་ཉིད་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.1.1.1", "status": "placed", "line": 6303, "before": "༈གཉིས་པ་རང་སྡེས་བཏགས་པའི་ཕུང་བོ་ཉིད་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.1.1.2", "status": "placed", "line": 6323, "before": "གཉིས་པ་ལུགས་དེ་དགག་པ་ནི།", "occ": 1, "conf": "high", "note": "mid-paragraph, at end of line"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.1.2", "status": "placed", "line": 6337, "before": "དེ་ལ་ཁོ་ན་རེ། ལས་བསགས་པ་པོ་དང་", "occ": 1, "conf": "med", "note": "announcement implicit: objection+reply refuting the fault-avoiding answer"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.2", "status": "placed", "line": 6343, "before": "གཉིས་པ་དེ་ལྟར་འདོད་པ་ལས་མི་རིགས་པའི་", "occ": 1, "conf": "high", "note": "mid-paragraph"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.3", "status": "placed", "line": 6349, "before": "༈གསུམ་པ་ཕུང་པོ་བདག་ཏུ་སྨྲ་བ་ལ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.4", "status": "placed", "line": 6365, "before": "བཞི་པ་ཕུང་པོ་བདག་ཏུ་གསུངས་པ་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.4.1", "status": "placed", "line": 6365, "before": "བཞི་པ་ཕུང་པོ་བདག་ཏུ་གསུངས་པ་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.4.1.1", "status": "placed", "line": 6365, "before": "བཞི་པ་ཕུང་པོ་བདག་ཏུ་གསུངས་པ་", "occ": 1, "conf": "high", "note": "stacked: one paragraph announces chain"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.4.1.2", "status": "placed", "line": 6373, "before": "གཉིས་པ་སྒྲུབ་ཕྱོགས་ནས་ཡིན་དུ་ཆུག་ཀྱང་", "occ": 1, "conf": "high", "note": "mid-paragraph"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.4.1.3", "status": "placed", "line": 6388, "before": "གསུམ་པ་དེ་དག་ལ་གཞན་གྱི་རྩོད་པ་སྤང་པ་ནི།", "occ": 1, "conf": "high", "note": "mid-paragraph, at end of line"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.4.2", "status": "placed", "line": 6400, "before": "གཉིས་པ་མདོ་གཞན་ལ་བརྟེན་ནས་ཕུང་པོ་", "occ": 1, "conf": "high", "note": "mid-paragraph, at end of line"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.4.3", "status": "placed", "line": 6410, "before": "གསུམ་པ་ཕུང་པོའི་ཚོགས་པའི་དབྱིབས་ཀྱི་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.4.4", "status": "placed", "line": 6414, "before": "བཞི་པ་ཕུང་པོའི་ཚོགས་ཙམ་བདག་ཏུ་འདོད་པ་", "occ": 1, "conf": "high", "note": "mid-paragraph, at end of line"}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.4.5", "status": "placed", "line": 6426, "before": "ལྔ་པ་ཐུབ་པས་བདག་དེ་ཁམས་དྲུག་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.2.5", "status": "placed", "line": 6434, "before": "ལྔ་པ་གཞན་གྱི་ལུགས་འབྲེལ་མེད་དུ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.2.1.1.3", "status": "placed", "line": 6446, "before": "གསུམ་པ་དེ་གཉིས་ཀྱི་ལྷག་མའི་ཕྱོགས་", "occ": 1, "conf": "high", "note": ""}

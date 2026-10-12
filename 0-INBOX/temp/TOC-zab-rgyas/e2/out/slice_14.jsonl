@@ -1,0 +1,40 @@
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.1.1", "status": "placed", "line": 4211, "before": "སངས་རྒྱས་བསྐྱངས་དང་ཟླ་བའི་ཞབས་", "occ": 1, "conf": "med", "note": "announcement of the seven uncommon tenets; placed at start of the paragraph beginning the explanation of uncommon tenets; parent 5.2.1 sits earlier"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.1.1.1", "status": "placed", "line": 4213, "before": "དང་པོ་ཀུན་གཞིའི་རྣམ་ཤེས་མི་འདོ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.1.1.2", "status": "placed", "line": 4213, "before": "གཉིས་པ་རང་རིག་ཁས་མི་ལེན་པ་ཡང་ར", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.1.1.3", "status": "placed", "line": 4213, "before": "གསུམ་པ་རང་རྒྱུད་མི་འདོད་པ་ཡང་ར", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.1.1.4", "status": "placed", "line": 4213, "before": "བཞི་པ་ཕྱི་དོན་ཁས་ལེན་པ་དེ་ལ་ཐུ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.1.1.5", "status": "placed", "line": 4215, "before": "ལྔ་པ་ཉན་རང་གིས་ངེས་པར་སྟོང་ཉིད", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.1.1.6", "status": "placed", "line": 4215, "before": "དྲུག་པ་ཆོས་ཀྱི་བདག་འཛིན་ཉོན་མོ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.1.1.7", "status": "placed", "line": 4217, "before": "བདུན་པ་ཞིག་པ་དངོས་པོ་ཡིན་པའང་ར", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2", "status": "placed", "line": 4217, "before": "གཉིས་པ་ལས་འགག་པ་ལས་འབྲས་བུ་འབྱ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.1", "status": "placed", "line": 4217, "before": "དང་པོ་ནི། རང་བཞིན་གྱིས་མ་གྲུབ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2", "status": "placed", "line": 4237, "before": "༈གཉིས་པ་ཡོན་ཏན་བཤད་པའི་སྐབས་རྣ", "occ": 1, "conf": "high", "note": "stacked with 5.2.2.2, 5.2.2.2.1 and 5.2.2.2.1.1 (one announcing sentence)"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.1", "status": "placed", "line": 4237, "before": "༈གཉིས་པ་ཡོན་ཏན་བཤད་པའི་སྐབས་རྣ", "occ": 1, "conf": "high", "note": "stacked"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.1.1", "status": "placed", "line": 4237, "before": "༈གཉིས་པ་ཡོན་ཏན་བཤད་པའི་སྐབས་རྣ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.1.2", "status": "placed", "line": 4287, "before": "གཞན་ཡང་ཞིག་པ་དངོས་པོ་ཡིན་པར་ཐལ", "occ": 1, "conf": "high", "note": "no explicit label; placed where the text turns to proving zhig pa is a dngos po (three proofs enumerated)"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.1.2.1", "status": "placed", "line": 4287, "before": "དང་པོ་ཞིག་པ་དངོས་པོ་ཡིན་པར་ལུང", "occ": 1, "conf": "med", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.1.2.2", "status": "placed", "line": 4291, "before": "གཉིས་པ་རིགས་པས་ཀྱང་ཞིག་པ་དངོས་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.1.2.2.1", "status": "placed", "line": 4291, "before": "དང་པོ་ནི། ཞིག་པ་དངོས་པོ་མ་ཡིན་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.1.2.2.2", "status": "placed", "line": 4311, "before": "༈གཉིས་པ་ཞིག་པ་དངོས་པོ་མ་ཡིན་ན་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.1.2.2.3", "status": "placed", "line": 4319, "before": "༈གསུམ་པ་ཞིག་པ་དངོས་པོ་མིན་ན་ནི", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.1.2.3", "status": "placed", "line": 4321, "before": "གསུམ་པ་ཞིག་པ་དངོས་པོ་ཡིན་པར་གྲ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.1.3", "status": "placed", "line": 4342, "before": "ད་ནི་ལས་ཀྱི་བག་ཆགསབགོ་གཞིའི་དོ", "occ": 1, "conf": "high", "note": "announced as ད་ནི་ལས་ཀྱི་བག་ཆགས་... mid-paragraph after a sentence-final shad"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.2", "status": "placed", "line": 4372, "before": "༈གཉིས་པ་རང་ལུགས་བཞག་པ་ལ། རང་ལུ", "occ": 1, "conf": "med", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.2.1", "status": "placed", "line": 4372, "before": "དང་པོ་ལ་འདས་པ་དང་། མ་འོངས་པ་དང", "occ": 1, "conf": "high", "note": "stacked with 5.2.2.2.2.1.1 (same announcing sentence)"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.2.1.1", "status": "placed", "line": 4372, "before": "དང་པོ་ལ་འདས་པ་དང་། མ་འོངས་པ་དང", "occ": 1, "conf": "med", "note": "stacked with 5.2.2.2.2.1"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.2.1.2", "status": "placed", "line": 4372, "before": "གཉིས་པ་མ་འོངས་པ་ནི། དངོས་པོ་གཞ", "occ": 1, "conf": "med", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.2.1.3", "status": "placed", "line": 4374, "before": "གསུམ་པ་ད་ལྟར་བ་ནི། དངོས་པོ་གཞན", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.2.2", "status": "placed", "line": 4378, "before": "གཉིས་པ་ཞིག་པ་དངོས་པོར་སྒྲུབ་པ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.2.3", "status": "placed", "line": 4384, "before": "༈གསུམ་པ་ཞིག་པའི་སྟེང་ནས་ཀྱང་དག", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.2.4", "status": "placed", "line": 4392, "before": "བཞི་བ་བག་ཆགས་ཀྱི་བསྒོ་གཞིའི་ཁྱ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.2.2.3", "status": "placed", "line": 4394, "before": "༈གསུམ་པ་རྩོད་པ་སྤོང་བ་ལ། ཁོ་ན་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.3", "status": "placed", "line": 4398, "before": "གསུམ་པ་དེ་ལྟར་བསྟན་པ་ལ་རྩོད་པ་", "occ": 1, "conf": "med", "note": "announced at end of 4398 after the 5.2.2.2.2 content; 5.2.3 announcement with two parts"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.3.1", "status": "placed", "line": 4400, "before": "དང་པོ་ནི། བུམ་པས་དགེ་སྡིག་ལས་ར", "occ": 1, "conf": "high", "note": "start of paragraph beginning with ordinal དང་པོ་ནི།"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.3.2", "status": "placed", "line": 4408, "before": "༈གཉིས་པ་ཀུན་གཞི་ཡོད་པར་གསུངས་པ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.3.2.1", "status": "placed", "line": 4408, "before": "དང་པོ་ནི། གལ་ཏེ་དེ་ལྟར་ཀུན་གཞི", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.3.2.2", "status": "placed", "line": 4416, "before": "གཉིས་པ། ཡིད་ཤེས་ལས་དངོས་པོ་ཐ་ད", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.1.5.2.3.2.3", "status": "placed", "line": 4435, "before": "༈གསུམ་པ་དགོས་པའི་དབང་གིས་གསུངས", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2", "status": "placed", "line": 4439, "before": "༈གཉིས་པ་སེམས་ཙམ་པའི་ལུགས་བྱེ་བ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1", "status": "placed", "line": 4439, "before": "དང་པོ་ལ་གཉིས། གཞན་ལུགས་བརྗོད་པ", "occ": 1, "conf": "med", "note": "start of paragraph, after enumeration of three parts"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.1", "status": "placed", "line": 4439, "before": "དང་པོ་ནི། དབུ་མ་པའི་ལུགས་མི་བར", "occ": 1, "conf": "med", "note": "after sentence ending the list of three; announces two parts"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2", "status": "placed", "line": 4468, "before": "༈གཉིས་པ་དེ་དགག་པ་ལ་དགག་པ་རྒྱས་", "occ": 1, "conf": "high", "note": ""}

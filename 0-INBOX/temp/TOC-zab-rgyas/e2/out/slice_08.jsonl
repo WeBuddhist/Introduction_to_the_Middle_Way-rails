@@ -1,0 +1,33 @@
+{"id": "3.2.1.1.2.3.5.1.2.2", "status": "placed", "line": 2417, "before": "༈གཉིས་པ་ཐལ་རང་གི་དགག་བྱའི་ངོས་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.1.2.2.1", "status": "placed", "line": 2417, "before": "༈གཉིས་པ་ཐལ་རང་གི་དགག་བྱའི་ངོས་", "occ": 1, "conf": "med", "note": "stacked at paragraph start with 1.2.2 (announced inside same paragraph: དང་པོ་ནི། རྣམ་བཤད་ལས།)"}
+{"id": "3.2.1.1.2.3.5.1.2.2.1.1", "status": "placed", "line": 2417, "before": "༈གཉིས་པ་ཐལ་རང་གི་དགག་བྱའི་ངོས་", "occ": 1, "conf": "med", "note": "stacked; announced in same paragraph as དང་པོ་ནི། སྔོན་གྱི་བོད་ཁ་ཅིག་ན་རེ།"}
+{"id": "3.2.1.1.2.3.5.1.2.2.1.2", "status": "placed", "line": 2546, "before": "གཉིས་པ་རང་ལུགས་ལ། བདེན་གྲུབ་དང་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.1.2.2.1.2.1", "status": "placed", "line": 2546, "before": "གཉིས་པ་རང་ལུགས་ལ། བདེན་གྲུབ་དང་", "occ": 1, "conf": "med", "note": "stacked at paragraph start (announced by དང་པོ་ལ། in same paragraph)"}
+{"id": "3.2.1.1.2.3.5.1.2.2.1.2.1.1", "status": "placed", "line": 2546, "before": "གཉིས་པ་རང་ལུགས་ལ། བདེན་གྲུབ་དང་", "occ": 1, "conf": "med", "note": "stacked; content starts at དང་པོ་ནི། དབུ་མ་སྣང་བ་ལས། in same paragraph"}
+{"id": "3.2.1.1.2.3.5.1.2.2.1.2.1.2", "status": "placed", "line": 2555, "before": "༈གཉིས་པ་གཞུང་གི་དོན་བཤད་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.1.2.2.1.2.1.3", "status": "placed", "line": 2563, "before": "གསུམ་པ་བཤད་པའི་ཐོབ་ཆོས་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.1.2.2.1.2.2", "status": "placed", "line": 2574, "before": "གཉིས་པ་འཇིག་རྟེན་པ་ལ་ལྟོས་པའི་བདེན་རྫུན་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.1.2.2.1.2.3", "status": "placed", "line": 2584, "before": "གསུམ་པ་དཔེ་དེ་དོན་ལ་སྦྱར་ནས་བཤད་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.1.2.2.1.3", "status": "placed", "line": 2588, "before": "གསུམ་པ་རྩོད་སྤོང་ལ་ཁོ་ན་རེ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.1.2.2.2", "status": "placed", "line": 2612, "before": "གཉིས་པ་ཐལ་འགྱུར་བའི་ལུགས་ཀྱི་དགག་བྱ་ངོས་འཛིན་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.1.2.2.2.1", "status": "placed", "line": 2614, "before": "དང་པོ་ཡོད་དེ། གཟུགས་ནས་རྣམ་མཁྱེན་", "occ": 1, "conf": "med", "note": "announced in 2612 enumeration; content/ordinal paragraph starts here (དང་པོ་ཡོད་དེ། = first of the four)"}
+{"id": "3.2.1.1.2.3.5.1.2.2.2.2", "status": "placed", "line": 2648, "before": "གཉིས་པ་དེའི་བཟློག་ཟླ་བདེན་པར་གྲུབ་པའི་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.1.2.2.2.3", "status": "placed", "line": 2652, "before": "གསུམ་པ་མིང་བརྡས་བཏགས་ཙམ་ལ་བྱ་བྱེད་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.1.2.2.2.4", "status": "placed", "line": 2658, "before": "བཞི་པ་དེ་ལྟར་འགྲེལ་བའི་མཁས་པ་ངོས་བཟུང་བ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2", "status": "placed", "line": 2674, "before": "༈གཉིས་པ་ལུང་གི་དོན་རིགས་པས་སྒྲུབ་པ་ལ་གཉིས།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1", "status": "placed", "line": 2674, "before": "༈གཉིས་པ་ལུང་གི་དོན་རིགས་པས་སྒྲུབ་པ་ལ་གཉིས།", "occ": 1, "conf": "med", "note": "stacked; announced as དང་པོ་ལ། in same paragraph"}
+{"id": "3.2.1.1.2.3.5.2.1.1", "status": "placed", "line": 2674, "before": "༈གཉིས་པ་ལུང་གི་དོན་རིགས་པས་སྒྲུབ་པ་ལ་གཉིས།", "occ": 1, "conf": "med", "note": "stacked; first of four, དང་པོ་ནི། སྤྱིར་དགག་བྱ… in same paragraph"}
+{"id": "3.2.1.1.2.3.5.2.1.1.1", "status": "placed", "line": 2674, "before": "༈གཉིས་པ་ལུང་གི་དོན་རིགས་པས་སྒྲུབ་པ་ལ་གཉིས།", "occ": 1, "conf": "low", "note": "label (dam bca' bzhag) has no matching announcement in order: དམ་བཅའ་བཞག་པ་ text sits later at line 2722 (after children 2.1.1.1.1/2). Stacked at start of paragraph holding the thal 'gyur/gtan tshigs general sentence to keep non-decreasing order"}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.1", "status": "placed", "line": 2676, "before": "དང་པོ་དུ་མ་ཡོད་དེ། གཞན་གྲགས་ཀྱི་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.1.1", "status": "placed", "line": 2676, "before": "དང་པོ་དུ་མ་ཡོད་དེ། གཞན་གྲགས་ཀྱི་", "occ": 1, "conf": "med", "note": "stacked; content starts at དང་པོ་ནི། རྟེན་འབྲེལ་བསྟོད་པ་ལས། in same paragraph"}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.1.2", "status": "placed", "line": 2678, "before": "གཉིས་པ་ནི། རྣམ་ཤེས་ཀྱིས་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.1.3", "status": "placed", "line": 2680, "before": "གསུམ་པ་ནི། གྲངས་ཅན་སོགས་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.1.4", "status": "placed", "line": 2682, "before": "བཞི་པ་ནི། མྱུ་གུ་རྒྱུ་དུས་ནས་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.1.5", "status": "placed", "line": 2684, "before": "ལྔ་པ་ནི། གཟུགས་ཕུང་རང་བཞིན་གྱིས་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.2", "status": "placed", "line": 2684, "before": "དང་པོ་ཡོད་དེ། མྱུ་གུ་ཆོས་ཅན། རང་བཞིན་གྱིས་མེད་དེ།", "occ": 1, "conf": "low", "note": "gtan tshigs family announced mid-paragraph (…དང་ལྔ་ཡོད་པའི་ཕྱིར། then དང་པོ་ཡོད་དེ།); split after that ཕྱིར། clause; stacked with 2.1.1.1.2.1"}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.2.1", "status": "placed", "line": 2684, "before": "དང་པོ་ཡོད་དེ། མྱུ་གུ་ཆོས་ཅན། རང་བཞིན་གྱིས་མེད་དེ།", "occ": 1, "conf": "med", "note": "first of the five gtan tshigs, དང་པོ་ཡོད་དེ། (vajra-sliver)"}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.2.2", "status": "placed", "line": 2702, "before": "གཉིས་པ་མཐའ་བཞིའི་སྐྱེ་འགོག་ལ་དཔྱོད་ཚུལ་", "occ": 1, "conf": "med", "note": "label matches this later elaboration paragraph exactly; an earlier ordinal-only mention གཉིས་པ་ནི། sits in line 2684 (list of examples)"}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.2.3", "status": "placed", "line": 2702, "before": "ཡང་གསུམ་པ་འབྲས་བུ་ལ་དཔྱོད་པ་", "occ": 1, "conf": "med", "note": "mid-paragraph after གཞུང་དུ་འཆད་དོ། །; earlier ordinal-only གསུམ་པ་ནི། at line 2686"}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.2.4", "status": "placed", "line": 2704, "before": "བཞི་པ་མུ་བཞི་སྐྱེ་འགོག་གི་གཏན་ཚིགས་ཀྱིས་", "occ": 1, "conf": "med", "note": "earlier ordinal-only བཞི་པ་ནི། at line 2688"}
+{"id": "3.2.1.1.2.3.5.2.1.1.1.2.5", "status": "placed", "line": 2708, "before": "ལྔ་པ་རྟེན་འབྲེལ་གྱི་གཏན་ཚིགས་ཀྱིས་དཔྱད་པ་ནི།", "occ": 1, "conf": "med", "note": "earlier ordinal-only ལྔ་པ་ནི། at line 2694"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2", "status": "placed", "line": 2726, "before": "གཉིས་པ་དེ་རིགས་པས་སྒྲུབ་པའི་སྒྲུབ་བྱེད་བསྟན་པ་ལ་བཞི།", "occ": 1, "conf": "high", "note": ""}

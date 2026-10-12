@@ -1,0 +1,25 @@
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1", "status": "placed", "line": 4468, "before": "༈གཉིས་པ་དེ་དགག་པ་ལ་དགག་པ་རྒྱས་", "occ": 1, "conf": "high", "note": "stacked with parent heading at paragraph start"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.1", "status": "placed", "line": 4468, "before": "༈གཉིས་པ་དེ་དགག་པ་ལ་དགག་པ་རྒྱས་", "occ": 1, "conf": "med", "note": "stacked at paragraph start with nested-level announcements"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.1.1", "status": "placed", "line": 4468, "before": "༈གཉིས་པ་དེ་དགག་པ་ལ་དགག་པ་རྒྱས་", "occ": 1, "conf": "med", "note": "stacked at paragraph start with nested-level announcements"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.1.1.1", "status": "placed", "line": 4468, "before": "༈གཉིས་པ་དེ་དགག་པ་ལ་དགག་པ་རྒྱས་", "occ": 1, "conf": "med", "note": "stacked; paragraph ends with dang po ni announcing this; content begins line 4470"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.1.1.2", "status": "placed", "line": 4478, "before": "༈གཉིས་པ་རྨི་ལམ་གྱི་དཔེས་སད་དུས", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.1.1.3", "status": "placed", "line": 4484, "before": "༈གསུམ་པ་རྨི་ལམ་གྱི་དཔེས་དངོས་པ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.1.2", "status": "placed", "line": 4492, "before": "༈གཉིས་པ་སྐྲ་ཤད་མཐོང་བའི་དཔེ་དག", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.2", "status": "placed", "line": 4500, "before": "༈གཉིས་པ་བག་ཆགས་ཀྱི་ནུས་པ་ལས་དོ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.2.1", "status": "placed", "line": 4500, "before": "༈གཉིས་པ་བག་ཆགས་ཀྱི་ནུས་པ་ལས་དོ", "occ": 1, "conf": "med", "note": "stacked; paragraph lists nested levels; content begins line 4502"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.2.1.1", "status": "placed", "line": 4500, "before": "༈གཉིས་པ་བག་ཆགས་ཀྱི་ནུས་པ་ལས་དོ", "occ": 1, "conf": "med", "note": "stacked; content (gzhan lugs) begins line 4502"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.2.1.2", "status": "placed", "line": 4504, "before": "༈གཉིས་པ་ལུགས་དེ་དགག་པ་ལ་གསུམ། ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.2.1.2.1", "status": "placed", "line": 4504, "before": "༈གཉིས་པ་ལུགས་དེ་དགག་པ་ལ་གསུམ། ", "occ": 1, "conf": "med", "note": "stacked; paragraph ends with dang po ni"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.2.1.2.2", "status": "placed", "line": 4510, "before": "༈གཉིས་པ་མ་འོངས་པ་ལ་ནུས་པ་རང་བཞ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.2.1.2.3", "status": "placed", "line": 4520, "before": "གསུམ་པ་འདས་པ་ལ་ནུས་པ་རང་བཞིན་ག", "occ": 1, "conf": "high", "note": "mid-paragraph near end of line 4520; split after shad"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.2.2", "status": "placed", "line": 4532, "before": "༈གཉིས་པ་སླར་ཡང་ཕྱི་དོན་མེད་པར་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.2.2.1", "status": "placed", "line": 4532, "before": "༈གཉིས་པ་སླར་ཡང་ཕྱི་དོན་མེད་པར་", "occ": 1, "conf": "med", "note": "stacked; paragraph continues directly with 'dang po ni sems tsam pa'i...' (alternative: mid-paragraph split there)"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.2.2.2", "status": "placed", "line": 4542, "before": "༈གཉིས་པ་དེ་དགག་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.2.3", "status": "placed", "line": 4564, "before": "༈གསུམ་པ་སེམས་ཙམ་པའི་ལུགས་བཀག་པ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.3", "status": "placed", "line": 4589, "before": "༈གསུམ་པ་དེ་ལྟར་བཀག་པ་དང་མི་སྡུ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.3.1", "status": "placed", "line": 4589, "before": "༈གསུམ་པ་དེ་ལྟར་བཀག་པ་དང་མི་སྡུ", "occ": 1, "conf": "med", "note": "stacked; paragraph ends 'dang po ni'"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.3.2", "status": "placed", "line": 4599, "before": "༈གཉིས་པ་མཐའ་དཔྱད་པ་ལ་དགག་བཞག་ས", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.3.2.1", "status": "placed", "line": 4599, "before": "༈གཉིས་པ་མཐའ་དཔྱད་པ་ལ་དགག་བཞག་ས", "occ": 1, "conf": "med", "note": "stacked at paragraph start"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.3.2.1.1", "status": "placed", "line": 4599, "before": "༈གཉིས་པ་མཐའ་དཔྱད་པ་ལ་དགག་བཞག་ས", "occ": 1, "conf": "med", "note": "stacked at paragraph start; paragraph continues 'dang po la sngon dus kyi kha cig na re'"}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.3.2.1.2", "status": "placed", "line": 4643, "before": "༈གཉིས་པ་འཁྲུལ་བ་རགས་པ་ལ་དཔྱད་པ", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.3.2.1.2.1", "status": "placed", "line": 4656, "before": "འོ་ན་དམྱལ་བ་པ་དང་། ཡི་དྭགས་དང་", "occ": 1, "conf": "low", "note": "no explicit announcement of 'thal bas dgag pa'; placed where refutation by consequence begins after opponent's position (lines 4643-4654); alternative is stacking at 4643 start"}

@@ -1,0 +1,25 @@
+{"id": "3.1.2.2.2", "status": "placed", "line": 584, "before": "༈གཉིས་པ་སྤྱི་དོན་ནི། མི་རྟག་པ་དང་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.1.2.2.3", "status": "placed", "line": 606, "before": "༈གསུམ་པ་མཐའ་དཔྱད་པ་ལ་གསུམ་ལས།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.1.2.2.3.1", "status": "placed", "line": 606, "before": "དང་པོ་ལ། ཁ་ཅིག་ན་རེ། སེམས་ཅན་ཐམས་ཅད་", "occ": 1, "conf": "high", "note": "stacked after 3.1.2.2.3 in same paragraph"}
+{"id": "3.1.2.2.3.2", "status": "placed", "line": 675, "before": "༈གཉིས་པ་རང་ལུགས་ལ། སྙིང་རྗེ་གསུམ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.1.2.2.3.3", "status": "placed", "line": 681, "before": "གསུམ་པ་རྩོད་སྤོང་ལ་ཁོ་ན་རེ། བདེན་མེད", "occ": 1, "conf": "high", "note": "mid-line, OCR-joined after previous sentence"}
+{"id": "3.2", "status": "placed", "line": 689, "before": "༈བརྩམས་པའི་བསྟན་བཅོས་ཀྱི་ལུས་དངོས།", "occ": 1, "conf": "med", "note": "paragraph start; ordinal sentence གཉིས་པ་བརྩམ་པའི་... follows a repeated title phrase"}
+{"id": "3.2.1", "status": "placed", "line": 689, "before": "དང་པོ་ལ། ས་སོ་སོའི་རྣམ་བཞག་དང་།", "occ": 1, "conf": "med", "note": "announced by division sentence of 3.2; insertion at the sentence dividing 3.2.1"}
+{"id": "3.2.1.1", "status": "placed", "line": 689, "before": "དང་པོ་ལ། རབ་དགའ་སོགས་ས་ལྔ་དང་།", "occ": 1, "conf": "med", "note": "stacked paragraph; sequential"}
+{"id": "3.2.1.1.1", "status": "placed", "line": 689, "before": "དང་པོ་ལ། ས་དང་པོ་རབ་ཏུ་དགའ་བ་དང་།", "occ": 1, "conf": "med", "note": ""}
+{"id": "3.2.1.1.1.1", "status": "placed", "line": 689, "before": "དང་པོ་ལ། ཁྱད་གཞི་སའི་ངོ་བོ་མདོར་བསྟན་པ།", "occ": 1, "conf": "med", "note": ""}
+{"id": "3.2.1.1.1.1.1", "status": "placed", "line": 689, "before": "དང་པོ་ལ་ཚིག་དོན་དང་། སྤྱི་དོན་དང་།", "occ": 1, "conf": "med", "note": ""}
+{"id": "3.2.1.1.1.1.1.1", "status": "placed", "line": 689, "before": "དང་པོ་ནི།", "occ": 1, "conf": "med", "note": "last clause of paragraph; body (ཚིག་དོན་) is line 691"}
+{"id": "3.2.1.1.1.1.1.2", "status": "placed", "line": 695, "before": "༈གཉིས་པ་སྤྱི་དོན་ལ། འདི་ལྟར་སྟོན་པའི་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.1.2.1", "status": "placed", "line": 695, "before": "དང་པོ་ལ། གལ་ཏེ་བསྟན་བཅོས་འཇུག་པའི་གཞུང་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.1.2.2", "status": "placed", "line": 719, "before": "གཉིས་པ་འདིར་བསྟན་པའི་སའི་ཁྱད་པར་བཤད་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.1.3", "status": "placed", "line": 785, "before": "༈གསུམ་པ་མཐའ་དཔྱད་པ་ལ། དགག་བཞག་སྤང་གསུམ་ལས།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.1.3.1", "status": "placed", "line": 785, "before": "དང་པོ་ལ། འགྲེལ་བཤད་མཁན་པོ་དང་བོད་ཁ་ཅིག་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.1.3.2", "status": "placed", "line": 836, "before": "གཉིས་པ་རང་ལུགས་བཞག་པ་ནི། སྤྱིར་ན་སྐབས་འདིར་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.1.3.3", "status": "placed", "line": 846, "before": "༈གསུམ་པ་རྩོད་སྤོང་ལ། ཁོ་ན་རེ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.2", "status": "placed", "line": 862, "before": "༈གཉིས་པ་ཁྱད་ཆོས་སའི་ཡོན་ཏན་བཤད་པ་ལ་གསུམ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.2.1", "status": "placed", "line": 862, "before": "དང་པོ་ལ། ཡོན་ཏན་སོ་སོར་ཕྱེ་སྟེ་བཤད་པ་དང་།", "occ": 1, "conf": "high", "note": "stacked paragraph; sequential"}
+{"id": "3.2.1.1.1.1.2.1.1", "status": "placed", "line": 862, "before": "དང་པོ་ལ། དོན་ལྡན་གྱི་མཚན་ཐོབ་པའི་ཡོན་ཏན་དང་།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.2.1.1.1", "status": "placed", "line": 862, "before": "དང་པོ་ནི།", "occ": 1, "conf": "high", "note": "last clause of paragraph; body is line 864"}
+{"id": "3.2.1.1.1.1.2.1.1.2", "status": "placed", "line": 864, "before": "གཉིས་པ་རིགས་སུ་སྐྱེས་པ་སོགས་བཞིའི་ཡོན་ཏན་བཤད་པ་ནི།", "occ": 1, "conf": "high", "note": "at end of paragraph; body follows in line 866"}
+{"id": "3.2.1.1.1.1.2.1.1.3", "status": "placed", "line": 872, "before": "གསུམ་པ་ས་གོང་མ་གནོན་པ་སོགས་གསུམ་གྱི་ཡོན་ཏན་", "occ": 1, "conf": "med", "note": "mid-line"}

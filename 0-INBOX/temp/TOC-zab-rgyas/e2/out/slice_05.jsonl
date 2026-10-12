@@ -1,0 +1,40 @@
+{"id": "3.2.1.1.1.1.2.3.2", "status": "placed", "line": 1580, "before": "༈གཉིས་པ་རྟེན་དམན་པ་རྣམས་ཀྱི་སྦྱིན་པ་བཤད་པ་ལ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.2.3.2.1", "status": "placed", "line": 1580, "before": "༈གཉིས་པ་རྟེན་དམན་པ་རྣམས་ཀྱི་སྦྱིན་པ་བཤད་པ་ལ།", "occ": 1, "conf": "med", "note": "stacked with parent; opener དང་པོ། is paragraph-final"}
+{"id": "3.2.1.1.1.1.2.3.2.2", "status": "placed", "line": 1588, "before": "༈གཉིས་པ་སྦྱིན་པས་མྱང་འདས་ཀྱི་བདེ་བ་ཐོབ་པར་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.2.3.3", "status": "placed", "line": 1592, "before": "༈གསུམ་པ་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་སྦྱིན་པ་བཤད་པ་ལ་བཞི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.2.3.3.1", "status": "placed", "line": 1592, "before": "༈གསུམ་པ་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་སྦྱིན་པ་བཤད་པ་ལ་བཞི།", "occ": 1, "conf": "med", "note": "stacked with parent; opener དང་པོ་ནི། is paragraph-final"}
+{"id": "3.2.1.1.1.1.2.3.3.2", "status": "placed", "line": 1598, "before": "༈གཉིས་པ་རྟེན་གཉིས་ཀ་ལ་སྦྱིན་པའི་གཏམ་གཙོ་བོར་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.2.3.3.3", "status": "placed", "line": 1600, "before": "གསུམ་པ་བྱང་སེམས་ཀྱི་སྦྱིན་པའི་ཚེ་དགའ་བ་ཇི་འདྲ་ཐོབ་པར་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": "mid-paragraph; split after ཞེས་གསུངས་པས་སོ། །"}
+{"id": "3.2.1.1.1.1.2.3.3.4", "status": "placed", "line": 1604, "before": "བཞི་པ་བྱང་སེམས་ཀྱི་ལུས་སྦྱིན་པ་ལ་སྡུག་བསྔལ་ཡོད་མེད་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.2.3.4", "status": "placed", "line": 1617, "before": "༈བཞི་པ་སྦྱིན་པའི་ཕར་ཕྱིན་གྱི་དབྱེ་བ་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.1.3", "status": "placed", "line": 1629, "before": "༈གསུམ་པ་སའི་ཡོན་ཏན་བཤད་པའི་སྒོ་ནས་མཇུག་བསྡུ་བ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.2", "status": "placed", "line": 1637, "before": "གཉིས་པ་ས་གཉིས་པ་དྲི་མ་མེད་བཤད་པ་ལ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.2.1", "status": "placed", "line": 1637, "before": "གཉིས་པ་ས་གཉིས་པ་དྲི་མ་མེད་བཤད་པ་ལ།", "occ": 1, "conf": "med", "note": "stacked: one paragraph announces nodes 2, 2.1, 2.1.1 and opener of 2.1.1.1"}
+{"id": "3.2.1.1.1.2.1.1", "status": "placed", "line": 1637, "before": "གཉིས་པ་ས་གཉིས་པ་དྲི་མ་མེད་བཤད་པ་ལ།", "occ": 1, "conf": "med", "note": "stacked"}
+{"id": "3.2.1.1.1.2.1.1.1", "status": "placed", "line": 1637, "before": "གཉིས་པ་ས་གཉིས་པ་དྲི་མ་མེད་བཤད་པ་ལ།", "occ": 1, "conf": "med", "note": "stacked; opener དང་པོ་ནི། paragraph-final"}
+{"id": "3.2.1.1.1.2.1.1.2", "status": "placed", "line": 1639, "before": "གཉིས་པ་དེ་ལ་བརྟེན་ནས་ཡོན་ཏན་ཡོངས་སུ་དག་པར་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": "mid-paragraph split"}
+{"id": "3.2.1.1.1.2.1.1.3", "status": "placed", "line": 1645, "before": "གསུམ་པ་ས་དང་པོ་ལས་གཉིས་པར་ཚུལ་ཁྲིམས་ལྷག་པར་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.2.1.1.4", "status": "placed", "line": 1651, "before": "བཞི་པ་ཚུལ་ཁྲིམས་ཡོངས་སུ་དག་པའི་རྒྱུ་གཞན་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": "mid-paragraph split"}
+{"id": "3.2.1.1.1.2.1.2", "status": "placed", "line": 1655, "before": "གཉིས་པ་ས་འདིར་ཚུལ་ཁྲིམས་ཀྱི་བསྔགས་པ་བསྟན་པ་ལ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.2.1.2.1", "status": "placed", "line": 1655, "before": "གཉིས་པ་ས་འདིར་ཚུལ་ཁྲིམས་ཀྱི་བསྔགས་པ་བསྟན་པ་ལ།", "occ": 1, "conf": "med", "note": "stacked; opener དང་པོ་ནི། is mid-paragraph, body follows in same paragraph"}
+{"id": "3.2.1.1.1.2.1.2.2", "status": "placed", "line": 1657, "before": "གཉིས་པ་སྦྱིན་འབྲས་ལ་སྐྱེ་བ་བརྒྱུད་མར་སྤྱོད་པ་", "occ": 1, "conf": "high", "note": "paragraph-final announcement; split"}
+{"id": "3.2.1.1.1.2.1.2.3", "status": "placed", "line": 1663, "before": "གསུམ་པ་ཚུལ་ཁྲིམས་དང་བྲལ་ན་ངན་འགྲོ་ལས་ཐར་བ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.2.1.2.4", "status": "placed", "line": 1667, "before": "བཞི་པ་སྦྱིན་པའི་གཏམ་གྱི་རྗེས་སུ་ཚུལ་ཁྲིམས་གྱི་གཏམ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.2.1.2.5", "status": "placed", "line": 1673, "before": "ལྔ་པ་མངོན་མཐོ་དང་ངེས་ལེགས་གཉིས་ཀའི་རྒྱུར་ཚུལ་ཁྲིམས་བསྔགས་པ་ནི།", "occ": 1, "conf": "high", "note": "paragraph-final; split"}
+{"id": "3.2.1.1.1.2.1.3", "status": "placed", "line": 1677, "before": "གསུམ་པ་ཚུལ་ཁྲིམས་ཀྱི་མི་མཐུན་ཕྱོགས་དང་མ་འདྲེས་པའི་དཔེས་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.2.1.4", "status": "placed", "line": 1679, "before": "བཞི་པ་ཚུལ་ཁྲིམས་ཀྱི་ཕར་ཕྱིན་གྱི་དབྱེ་བ་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": "paragraph-final; split"}
+{"id": "3.2.1.1.1.2.1.5", "status": "placed", "line": 1681, "before": "ལྔ་པ་སའི་ཡོན་ཏན་བརྗོད་པའི་སྒོ་ནས་མཇུག་བསྡུ་བ་ནི།", "occ": 1, "conf": "high", "note": "paragraph-final; split"}
+{"id": "3.2.1.1.1.2.2", "status": "placed", "line": 1685, "before": "གཉིས་པ་མཐའ་དཔྱད་པ་ལ་དགག་བཞག་སྤངས་གསུམ་ལས།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.2.2.1", "status": "placed", "line": 1685, "before": "གཉིས་པ་མཐའ་དཔྱད་པ་ལ་དགག་བཞག་སྤངས་གསུམ་ལས།", "occ": 1, "conf": "med", "note": "stacked; དང་པོ་ལ་ opener follows directly in same paragraph"}
+{"id": "3.2.1.1.1.2.2.2", "status": "placed", "line": 1709, "before": "གཉིས་པ་རང་ལུགས་ནི་བྱང་སེམས་ཀྱི་ཚུལ་ཁྲིམས་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.2.2.3", "status": "placed", "line": 1719, "before": "གསུམ་པ་རྩོད་སྤོང་ལ། ཁྱོད་ཀྱི་རྗེ་བླ་མའི་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.3", "status": "placed", "line": 1723, "before": "གསུམ་པ་ས་གསུམ་པ་འོད་བྱེད་པ་བཤད་པ་ལ་བཞི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.3.1", "status": "placed", "line": 1723, "before": "གསུམ་པ་ས་གསུམ་པ་འོད་བྱེད་པ་བཤད་པ་ལ་བཞི།", "occ": 1, "conf": "med", "note": "stacked; opener དང་པོ་ནི། paragraph-final"}
+{"id": "3.2.1.1.1.3.2", "status": "placed", "line": 1727, "before": "༈གཉིས་པ་ཁྱད་ཆོས་སའི་ཡོན་ཏན་བཤད་པ་ལ་བཞི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.3.2.1", "status": "placed", "line": 1727, "before": "༈གཉིས་པ་ཁྱད་ཆོས་སའི་ཡོན་ཏན་བཤད་པ་ལ་བཞི།", "occ": 1, "conf": "med", "note": "stacked; opener དང་པོ་ནི། paragraph-final"}
+{"id": "3.2.1.1.1.3.2.2", "status": "placed", "line": 1739, "before": "གཉིས་པ་བཟོད་པ་གཞན་ཇི་ལྟར་འདྲེན་པའི་ཚུལ་གཉིས།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.3.2.2.1", "status": "placed", "line": 1739, "before": "གཉིས་པ་བཟོད་པ་གཞན་ཇི་ལྟར་འདྲེན་པའི་ཚུལ་གཉིས།", "occ": 1, "conf": "med", "note": "stacked; དང་པོ་ལ་བཞི། follows in same paragraph"}
+{"id": "3.2.1.1.1.3.2.2.1.1", "status": "placed", "line": 1739, "before": "གཉིས་པ་བཟོད་པ་གཞན་ཇི་ལྟར་འདྲེན་པའི་ཚུལ་གཉིས།", "occ": 1, "conf": "med", "note": "stacked; opener དང་པོ་ནི། mid-paragraph, body follows in same paragraph"}
+{"id": "3.2.1.1.1.3.2.2.1.2", "status": "placed", "line": 1741, "before": "གཉིས་པ་ཕྱིས་ཀྱི་སྡུག་བསྔལ་མི་འདོད་པ་དང་གནོད་ལན་བྱེད་པ་གཉིས་འགལ་བར་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": "paragraph-final; split"}
+{"id": "3.2.1.1.1.3.2.2.1.3", "status": "placed", "line": 1747, "before": "གསུམ་པ་སྔར་རིགས་བསགས་པའི་དགེ་བ་འཇོམས་པས་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.1.3.2.2.1.3.1", "status": "placed", "line": 1747, "before": "གསུམ་པ་སྔར་རིགས་བསགས་པའི་དགེ་བ་འཇོམས་པས་", "occ": 1, "conf": "med", "note": "stacked; དང་པོ་ནི། follows in same paragraph"}
