@@ -1,0 +1,17 @@
+nodes in tree: 730
+headings inserted: 729 (expected 729)
+confidence: {'med': 158, 'high': 564, 'low': 7}
+prose preserved (whitespace-insensitive): True
+source lines 7362 -> output lines 9318
+rejected foreign ids: 0
+unplaced / problems: 1
+  3.2.1.1.2.3.5.2.2.2.2.1.4	བཞི་པ་རྒྱུད་གཅིག་གི་ལྡོག་པ་འབྱེད་ཚུལ་ལ་དཔྱད་པ་	not_found: No announcement of the fourth part (རྒྱུད་གཅིག་གི་ལྡོག་པ་འབྱེད་ཚུལ་) found between 2.1.3 (line 6694) and 2.2 (line 6715); only listed in the enumeration at line 6581.
+
+low-confidence placements:
+  3.1.1.1.1.1.3	line 135	opening label garbled/missing; paragraph begins with ༈ and continues Pratyekabuddha (middling vehicle) epithet explanation; judged from content and sibling order
+  3.2.1.1.1.1.2.2.3.1.2	line 1271	no explicit ordinal; paragraph listing the scriptural sources (ལུང་བདུན་དང་དགུ) taken as 1.2
+  3.2.1.1.2.3.5.2.1.1.1	line 2674	label (dam bca' bzhag) has no matching announcement in order: དམ་བཅའ་བཞག་པ་ text sits later at line 2722 (after children 2.1.1.1.1/2). Stacked at start of paragraph holding the thal 'gyur/gtan tshigs general sentence to keep non-decreasing order
+  3.2.1.1.2.3.5.2.1.1.1.2	line 2684	gtan tshigs family announced mid-paragraph (…དང་ལྔ་ཡོད་པའི་ཕྱིར། then དང་པོ་ཡོད་དེ།); split after that ཕྱིར། clause; stacked with 2.1.1.1.2.1
+  3.2.1.1.2.3.5.2.1.1.2.2.1.2.2	line 3480	no explicit announcement of this node; section begins mid-paragraph; stacked with 1.2.2.1..1.1.1
+  3.2.1.1.2.3.5.2.1.1.2.2.2.1.2.1.3.2.1.2.1	line 4656	no explicit announcement of 'thal bas dgag pa'; placed where refutation by consequence begins after opponent's position (lines 4643-4654); alternative is stacking at 4643 start
+  3.2.2.1.2.2.1	line 7161	

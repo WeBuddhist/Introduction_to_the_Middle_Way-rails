@@ -28,11 +28,18 @@ title = dict(nodes)
 
 # ---- placements ---------------------------------------------------------
 pl = {}
+import os
+rejected = []
 for f in sorted(glob.glob(a.out_dir.rstrip("/\\") + "/slice_*.jsonl")):
+    sl = os.path.join(os.path.dirname(a.out_dir.rstrip("/\\")), "slices", os.path.basename(f)[:-6] + ".md")
+    allowed = {l.split()[0] for l in open(sl, encoding="utf8") if l.strip()}
     for ln in open(f, encoding="utf8"):
         ln = ln.strip()
         if ln:
             r = json.loads(ln)
+            if r["id"] not in allowed:
+                rejected.append((os.path.basename(f), r["id"]))
+                continue
             pl[r["id"]] = r
 
 raw = open(a.source, encoding="utf8", newline="").read()
@@ -145,6 +152,7 @@ rep.append(f"headings inserted: {n_found} (expected {n_expected})")
 rep.append(f"confidence: {conf}")
 rep.append(f"prose preserved (whitespace-insensitive): {ok}")
 rep.append(f"source lines {len(lines)} -> output lines {len(out)}")
+rep.append(f"rejected foreign ids: {len(rejected)}")
 rep.append(f"unplaced / problems: {len(problems)}")
 for d, why in sorted(problems, key=lambda x: order[x[0]]):
     rep.append(f"  {d}\t{title[d]}\t{why}")

@@ -1,0 +1,40 @@
+{"id": "3.2.1.1.2.3.5.2.2.3", "status": "placed", "line": 6777, "before": "༈གསུམ་པ་བདག་དང་ཤིང་རྟའི་དཔྱད་པ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.3.1", "status": "placed", "line": 6777, "before": "༈གསུམ་པ་བདག་དང་ཤིང་རྟའི་དཔྱད་པ་", "occ": 1, "conf": "med", "note": "stacked with 3.2.1.1.2.3.5.2.2.3 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.2.3.5.2.2.3.2", "status": "placed", "line": 6785, "before": "༈གཉིས་པ་རྒྱུ་དང་འབྲས་བུའི་དངོས་པོ་ལ་བསྒྲེ་བ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.3.3", "status": "placed", "line": 6805, "before": "༈གསུམ་པ་དེ་ལ་གཞན་གྱི་རྩོད་པ་སྤང་བ་ལ་གཉིས།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.3.3.1", "status": "placed", "line": 6805, "before": "༈གསུམ་པ་དེ་ལ་གཞན་གྱི་རྩོད་པ་སྤང་བ་ལ་གཉིས།", "occ": 1, "conf": "med", "note": "stacked with 3.2.1.1.2.3.5.2.2.3.3 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.2.3.5.2.2.3.3.2", "status": "placed", "line": 6815, "before": "༈གཉིས་པ་རང་ལུགས་ལ་མི་མཚུངས་པའི་ལན་བསྟན་པ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.3.3.2.1", "status": "placed", "line": 6815, "before": "༈གཉིས་པ་རང་ལུགས་ལ་མི་མཚུངས་པའི་ལན་བསྟན་པ་", "occ": 1, "conf": "high", "note": "stacked with 3.2.1.1.2.3.5.2.2.3.3.2 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.2.3.5.2.2.3.3.2.1.1", "status": "placed", "line": 6815, "before": "༈གཉིས་པ་རང་ལུགས་ལ་མི་མཚུངས་པའི་ལན་བསྟན་པ་", "occ": 1, "conf": "med", "note": "stacked with 3.2.1.1.2.3.5.2.2.3.3.2 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.2.3.5.2.2.3.3.2.1.2", "status": "placed", "line": 6821, "before": "༈གཉིས་པ་རང་གི་ཕྱོགས་གྲུབ་པ་ཁས་ལེན་ཚུལ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.3.3.2.2", "status": "placed", "line": 6827, "before": "གཉིས་པ་གཞན་གྱི་ཐལ་བ་མི་མཚུངས་པའི་རྒྱུ་མཚན་གསལ་བར་བཤད་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.3.3.2.3", "status": "placed", "line": 6833, "before": "༈གསུམ་པ་རང་བཞིན་མེད་པ་སྒྲུབ་ནུས་པ་བཞིན་དུ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.2.2.3.3.2.4", "status": "placed", "line": 6839, "before": "༈བཞི་པ་འདིར་མ་བཤད་པའི་སུན་འབྱིན་ལྷག་མ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3", "status": "placed", "line": 6845, "before": "༈གསུམ་པ་རིགས་པས་གྲུབ་པའི་སྟོང་ཉིད་ཀྱི་རབ་དབྱེ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.1", "status": "placed", "line": 6847, "before": "ཆོས་རྣམས་རང་བཞིན་གྱིས་གྲུབ་པའི་བདག་གིས་སྟོང་པའི་", "occ": 1, "conf": "med", "note": "no explicit announcement; brief teaching starts paragraph after the two-part division at line 6845"}
+{"id": "3.2.1.1.2.3.5.3.2", "status": "placed", "line": 6853, "before": "༈གཉིས་པ་དབྱེ་བ་སོ་སོའི་དོན་རྒྱས་པར་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.1", "status": "placed", "line": 6853, "before": "༈གཉིས་པ་དབྱེ་བ་སོ་སོའི་དོན་རྒྱས་པར་", "occ": 1, "conf": "high", "note": "stacked with 3.2.1.1.2.3.5.3.2 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.2.3.5.3.2.1.1", "status": "placed", "line": 6853, "before": "༈གཉིས་པ་དབྱེ་བ་སོ་སོའི་དོན་རྒྱས་པར་", "occ": 1, "conf": "high", "note": "stacked with 3.2.1.1.2.3.5.3.2 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.2.3.5.3.2.1.1.1", "status": "placed", "line": 6853, "before": "༈གཉིས་པ་དབྱེ་བ་སོ་སོའི་དོན་རྒྱས་པར་", "occ": 1, "conf": "med", "note": "stacked with 3.2.1.1.2.3.5.3.2 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.2.3.5.3.2.1.1.2", "status": "placed", "line": 6859, "before": "གཉིས་པ་སྟོང་ཉིད་ལྷག་མ་གསུམ་བཤད་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.1.2", "status": "placed", "line": 6867, "before": "གཉིས་པ་ཆེན་པོ་སྟོང་པ་ཉིད་ལ་སོགས་པ་བཤད་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.1.3", "status": "placed", "line": 6879, "before": "༈གསུམ་པ་མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་ལ་སོགས་པ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.1.4", "status": "placed", "line": 6893, "before": "༈བཞི་པ་ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ལ་སོགས་པ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.1.4.1", "status": "placed", "line": 6893, "before": "༈བཞི་པ་ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་ལ་སོགས་པ་", "occ": 1, "conf": "med", "note": "stacked with 3.2.1.1.2.3.5.3.2.1.4 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.2.3.5.3.2.1.4.2", "status": "placed", "line": 6897, "before": "༈གཉིས་པ་རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་བཤད་པ་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.1.4.2.1", "status": "placed", "line": 6897, "before": "༈གཉིས་པ་རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་བཤད་པ་", "occ": 1, "conf": "med", "note": "stacked with 3.2.1.1.2.3.5.3.2.1.4.2 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.2.3.5.3.2.1.4.2.2", "status": "placed", "line": 6901, "before": "༈གཉིས་པ་རྒྱས་པར་བཤད་པ་ལ་གསུམ། གཞིའི་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.1.4.2.2.1", "status": "placed", "line": 6901, "before": "༈གཉིས་པ་རྒྱས་པར་བཤད་པ་ལ་གསུམ། གཞིའི་", "occ": 1, "conf": "med", "note": "stacked with 3.2.1.1.2.3.5.3.2.1.4.2.2 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.2.3.5.3.2.1.4.2.2.2", "status": "placed", "line": 6907, "before": "གཉིས་པ་ལམ་གྱི་ཆོས་ཀྱི་རང་གི་མཚན་ཉིད་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.1.4.2.2.3", "status": "placed", "line": 6929, "before": "༈གསུམ་པ་འབྲས་བའི་ཆོས་ཀྱི་རང་གི་མཚན་ཉིད་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.1.4.2.3", "status": "placed", "line": 6947, "before": "གསུམ་པ་དོན་བསྡུ་བ་ནི།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.1.4.3", "status": "placed", "line": 6951, "before": "༈གསུམ་པ་མི་དམིགས་པ་དང་དངོས་པོ་མེད་པའི་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.2", "status": "placed", "line": 6959, "before": "༈གཉིས་པ་སྟོང་ཉིད་བཞིར་ཕྱེ་བ་རྒྱས་པར་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.2.3.5.3.2.2.1", "status": "placed", "line": 6959, "before": "༈གཉིས་པ་སྟོང་ཉིད་བཞིར་ཕྱེ་བ་རྒྱས་པར་", "occ": 1, "conf": "med", "note": "stacked with 3.2.1.1.2.3.5.3.2.2 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.2.4", "status": "placed", "line": 6973, "before": "༈ད་ནི་བཞི་པ་སའི་ཡོན་ཏན་བརྗོད་པའི་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.3", "status": "placed", "line": 6985, "before": "གསུམ་པ་རིང་དུ་སོང་བ་སོགས་བཞི་བཤད་པ་ལ།", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.3.1", "status": "placed", "line": 6985, "before": "གསུམ་པ་རིང་དུ་སོང་བ་སོགས་བཞི་བཤད་པ་ལ།", "occ": 1, "conf": "high", "note": "stacked with 3.2.1.1.3 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.3.1.1", "status": "placed", "line": 6985, "before": "གསུམ་པ་རིང་དུ་སོང་བ་སོགས་བཞི་བཤད་པ་ལ།", "occ": 1, "conf": "med", "note": "stacked with 3.2.1.1.3 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.3.1.2", "status": "placed", "line": 6995, "before": "གཉིས་པ་ས་བརྒྱད་པ་བཤད་པ་ལ་གསུམ། ས་འདིར་", "occ": 1, "conf": "high", "note": ""}
+{"id": "3.2.1.1.3.1.2.1", "status": "placed", "line": 6995, "before": "གཉིས་པ་ས་བརྒྱད་པ་བཤད་པ་ལ་གསུམ། ས་འདིར་", "occ": 1, "conf": "high", "note": "stacked with 3.2.1.1.3.1.2 (same paragraph announces nested levels)"}
+{"id": "3.2.1.1.3.1.2.2", "status": "placed", "line": 7017, "before": "༈གཉིས་པ་ཉོན་མོངས་ཐམས་ཅད་ཟད་པར་བསྟན་པ་ནི།", "occ": 1, "conf": "high", "note": ""}
