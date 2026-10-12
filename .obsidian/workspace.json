@@ -62,7 +62,14 @@
               "icon": "lucide-file",
               "title": "དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3b769a06dea4f53c",
+        "type": "tabs",
+        "children": [
           {
             "id": "caa3249ec314ccad",
             "type": "leaf",
@@ -77,8 +84,7 @@
               "title": "དབུ་མ་འཇུག་པ།"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.16668701171875
+    "width": 396.16668701171875,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -257,27 +264,28 @@
   },
   "active": "1a7ed50a71ed46d1",
   "lastOpenFiles": [
-    "0-INBOX/temp/TOC-zab-rgyas/merge-report.txt",
-    "0-INBOX/temp/TOC-zab-rgyas/merged.tsv",
-    "0-INBOX/temp/TOC-zab-rgyas/placements/win_001.tsv",
-    "0-INBOX/temp/TOC-zab-rgyas/placements/win_001.tsv.tmp.5736.36a369c6546b",
-    "0-INBOX/temp/TOC-zab-rgyas/placements/win_030.tsv",
-    "0-INBOX/temp/TOC-zab-rgyas/place-prompt.md",
-    "0-INBOX/temp/TOC-zab-rgyas/windows.tsv",
-    "0-INBOX/temp/TOC-zab-rgyas/snapshot.md",
-    "0-INBOX/temp/TOC-zab-rgyas/placements",
+    "0-INBOX/temp/TOC-zab-rgyas/placements/extra_05.tsv",
+    "0-INBOX/temp/TOC-zab-rgyas/placements/extra_01.tsv",
+    "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
+    "0-INBOX/temp/TOC-zab-rgyas/gap-prompt.md",
+    "0-INBOX/temp/TOC-zab-rgyas/gap-prompt.md.tmp.5736.ce8bba982ea0",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
+    "0-INBOX/temp/TOC-zab-rgyas/keep.json",
+    "0-INBOX/temp/TOC-zab-rgyas/gaps.json",
+    "0-INBOX/temp/TOC-zab-rgyas/rejected/win_032.tsv",
+    "0-INBOX/temp/TOC-zab-rgyas/rejected",
+    "0-INBOX/temp/TOC-zab-rgyas/placements/win_060.tsv",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
+    "0-INBOX/temp/TOC-zab-rgyas/placements/sedTZcP16",
+    "0-INBOX/temp/TOC-zab-rgyas/placements/sedZWT32L",
+    "0-INBOX/temp/TOC-zab-rgyas/placements/sedRIEaQh",
+    "0-INBOX/temp/TOC-zab-rgyas/place-prompt.md",
+    "0-INBOX/temp/TOC-zab-rgyas/snapshot.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
     "0-INBOX/TOCs/toc-tree-zab-rgyas.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
-    "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
     "4-SYSTEM/Skills/transclusion/SKILL.md",
     "0-INBOX/temp/transclusion-dgongs-pa/verified-placements-ch1-5.md",
-    "0-INBOX/temp/transclusion-dgongs-pa/verified-placements-ch1-5.md.tmp.3020.af32c0badba7",
-    "2-RAILS/Sections/Raw/toc-tree",
-    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_11.jsonl",
-    "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_11.BAD.jsonl.txt",
     "0-INBOX/temp/transclusion-dgongs-pa/candidate-map.md",
     "0-INBOX/temp/TOC-zab-rgyas/e2/result.md",
     "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
@@ -291,7 +299,6 @@
     "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_13.md",
     "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_12.md",
     "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_11.md",
-    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_10.md",
-    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_09.md"
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_10.md"
   ]
 }
