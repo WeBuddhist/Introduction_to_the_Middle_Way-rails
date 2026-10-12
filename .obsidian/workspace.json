@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/TOCs/toc-tree-zab-rgyas.md",
+                "file": "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toc-tree-zab-rgyas"
+              "title": "དབུ་མ་འཇུག་པ།"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
+                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།"
+              "title": "དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,14 +241,16 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1a7ed50a71ed46d1",
+  "active": "caa3249ec314ccad",
   "lastOpenFiles": [
+    "0-INBOX/TOCs/toc-tree-zab-rgyas.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
+    "4-SYSTEM/Skills/transclusion/SKILL.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
     "0-INBOX/temp/transclusion-dgongs-pa/verified-placements-ch1-5.md",
     "0-INBOX/temp/transclusion-dgongs-pa/verified-placements-ch1-5.md.tmp.3020.af32c0badba7",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
     "2-RAILS/Sections/Raw/toc-tree",
     "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_11.jsonl",
     "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_11.BAD.jsonl.txt",
@@ -260,9 +262,7 @@
     "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_21.jsonl",
     "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_20.jsonl",
     "0-INBOX/temp/TOC-zab-rgyas/e2/out/slice_23.jsonl",
-    "4-SYSTEM/Skills/transclusion/SKILL.md",
     "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
-    "0-INBOX/TOCs/toc-tree-zab-rgyas.md",
     "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_20.md",
     "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_19.md",
     "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_18.md",
