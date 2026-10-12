@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/TOCs/toc-tree-dbu-ma-la-hjug-pa-bshad-pa.md",
+                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toc-tree-dbu-ma-la-hjug-pa-bshad-pa"
+              "title": "དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།"
             }
           }
         ]
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,16 +200,31 @@
   },
   "active": "0fe427b5662ca5ec",
   "lastOpenFiles": [
+    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/headed-candidate.md",
+    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_03.json",
+    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_06.json",
+    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_02.json",
+    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_07.json",
+    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_08.json",
+    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_05.json",
+    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_04.json",
+    "0-INBOX/temp/sed0w49HL",
+    "0-INBOX/temp/foot.md",
+    "0-INBOX/temp/head.md",
+    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/placements/win_01.json",
+    "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
+    "0-INBOX/temp/sedU7NwwX",
+    "0-INBOX/temp/dbu-ma-scratch.md",
+    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/source-snapshot.md",
+    "0-INBOX/temp/TOC-dgongs-pa-rab-gsal/pre-toc-ingest-backup.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
+    "0-INBOX/TOCs/toc-tree-dbu-ma-la-hjug-pa-bshad-pa.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
     "0-INBOX/TOCs/toc-tree-zab-rgyas.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
     "0-INBOX/TOCs/toc-tree-shel-phreng.md",
-    "0-INBOX/temp/sedqAvclJ",
     "0-INBOX/temp/toc-tree-qc-source-zab-rgyas.md",
-    "4-SYSTEM/Skills/toc-generate/scripts/__pycache__/qc_check_tree.cpython-314.pyc",
-    "4-SYSTEM/Skills/toc-generate/scripts/__pycache__",
     "0-INBOX/temp/toc-tree-qc-zab-rgyas.md",
     "0-INBOX/temp/toc-tree-zab-rgyas.md",
     "0-INBOX/temp/toc-enumerations-zab-rgyas.md",
@@ -219,21 +235,6 @@
     "0-INBOX/temp/toc-candidates-zab-rgyas.md",
     "0-INBOX/temp/TOC-zab-rgyas/candidates/chunk_004.md",
     "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_057.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_054.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_052.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_046.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_056.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_055.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_051.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_053.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_050.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_049.md",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_049.md.tmp.11132.b452f772e4ad",
-    "0-INBOX/temp/TOC-zab-rgyas/candidates/chunk_052.md.tmp.11132.4f1fe664ed5b",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_021.md.tmp.17600.9c40b659fa31",
-    "0-INBOX/temp/TOC-zab-rgyas/candidates/chunk_025.md.tmp.17600.c6869fe833ed",
-    "0-INBOX/temp/TOC-zab-rgyas/candidates/chunk_017.md.tmp.17600.c178ac9318a6",
-    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_011.md.tmp.17600.8139ecae1fe5",
-    "0-INBOX/temp/TOC-zab-rgyas/candidates/chunk_005.md.tmp.17600.7c1c9fa9fbbf"
+    "0-INBOX/temp/TOC-zab-rgyas/enumerations/chunk_054.md"
   ]
 }
