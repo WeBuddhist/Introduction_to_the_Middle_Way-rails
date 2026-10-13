@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
+                "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།"
+              "title": "དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།"
             }
           },
           {
@@ -229,6 +229,8 @@
   },
   "active": "1a7ed50a71ed46d1",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
+    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -242,13 +244,10 @@
     "0-INBOX/temp/TOC-zab-rgyas/placements/extra_07.tsv",
     "0-INBOX/temp/TOC-zab-rgyas/placements/extra_04.tsv",
     "0-INBOX/temp/TOC-zab-rgyas/placements/extra_05.tsv",
-    "0-INBOX/temp/TOC-zab-rgyas/placements/extra_01.tsv",
     "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
     "0-INBOX/temp/TOC-zab-rgyas/gap-prompt.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
     "0-INBOX/temp/TOC-zab-rgyas/place-prompt.md",
     "0-INBOX/temp/TOC-zab-rgyas/snapshot.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
     "0-INBOX/TOCs/toc-tree-zab-rgyas.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
     "4-SYSTEM/Skills/transclusion/SKILL.md",
