@@ -3,7 +3,7 @@ registered_id: shel-phreng
 source_file: 1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md
 qc_reports: [2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-shel-phreng.md, 2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-source-shel-phreng.md]
 status: complete
-notes: "Node 3.2.1.1.2.2.2.3.1.2.2.2.1.2.1.2 is announced in the source (L2171) but has no passage of its own; its heading (^3-2-1-1-2-2-2-3-1-2-2-2-1-2-1-2-0) was inserted by the human contributor's instruction (2026-10-13) as an empty section after its sibling subtree. Nodes 3.2.1.1.2.2.2.3.1.1.1.1.2.2.2.2.2.1.2.2.2.2.1 and .2 were re-nested under 3.2.1.1.2.2.2.3.1.1.1.1.2.2.2.2.2.1.2.2.2.2 (2026-10-13) after checking the source. QC vs source ran without line pointers (E2 ingest); tree was cross-checked against the live headings instead (583 nodes, 583 headings, 0 title mismatches, 0 out-of-order)."
+notes: "Node 3.2.1.1.2.2.2.3.1.2.2.2.1.2.1.2 is announced in the source (L2171) but has no passage of its own; its heading (^3-2-1-1-2-2-2-3-1-2-2-2-1-2-1-2-0) was inserted by the human contributor's instruction (2026-10-13) as an empty section after its sibling subtree. Nodes 3.2.1.1.2.2.2.3.1.1.1.1.2.2.2.2.2.1.2.2.2.2.1 and .2 were re-nested under 3.2.1.1.2.2.2.3.1.1.1.1.2.2.2.2.2.1.2.2.2.2 (2026-10-13) after checking the source. QC vs source ran without line pointers (E2 ingest); tree was cross-checked against the live headings instead (583 nodes, 583 headings, 0 title mismatches, 0 out-of-order). Source line numbers cited in this note (L…) refer to the file before its 14-line frontmatter was added on 2026-10-13; add 14."
 ---
 
 ## དཀར་ཆག / Table of Contents

@@ -3,7 +3,7 @@ registered_id: dgongs-pa-rab-gsal
 source_file: 1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md
 qc_reports: [2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-dgongs-pa-rab-gsal.md, 2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-source-dgongs-pa-rab-gsal.md]
 status: complete
-notes: "QC vs candidates/enumerations reports 2 ordinal-attestation flags (tree L175 དང་པོ་རྩ་བའི་ཚིག་དོན་བཤད་པ and L237 གསུམ་པ་དེ་ལྟར་བཀག་པ་ལ་རྩོད་པ་སྤང་བ); both were checked in the source and accepted by the human contributor (2026-10-13): the ordinals match the announcing sentences at L1704 and L2366. QC vs source ran without line pointers (E2 ingest); the tree was cross-checked against the live headings instead (394 nodes, 0 missing, 0 title mismatches, 0 out-of-order)."
+notes: "QC vs candidates/enumerations reports 2 ordinal-attestation flags (tree L175 དང་པོ་རྩ་བའི་ཚིག་དོན་བཤད་པ and L237 གསུམ་པ་དེ་ལྟར་བཀག་པ་ལ་རྩོད་པ་སྤང་བ); both were checked in the source and accepted by the human contributor (2026-10-13): the ordinals match the announcing sentences at L1704 and L2366. QC vs source ran without line pointers (E2 ingest); the tree was cross-checked against the live headings instead (394 nodes, 0 missing, 0 title mismatches, 0 out-of-order). Source line numbers cited in this note (L…) refer to the file before its 14-line frontmatter was added on 2026-10-13; add 14."
 ---
 
 ## དཀར་ཆག / Table of Contents
