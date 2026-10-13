@@ -229,6 +229,12 @@
   },
   "active": "1a7ed50a71ed46d1",
   "lastOpenFiles": [
+    "0-INBOX/temp/fix-backups-2026-10-13/zab-rgyas.source.before-frontmatter.md",
+    "0-INBOX/temp/fix-backups-2026-10-13/shel-phreng.source.before-frontmatter.md",
+    "0-INBOX/temp/fix-backups-2026-10-13/root-text.source.before-frontmatter.md",
+    "0-INBOX/temp/fix-backups-2026-10-13/frontmatter-shift.json",
+    "0-INBOX/temp/fix-backups-2026-10-13/dgongs-pa-rab-gsal.source.before-frontmatter.md",
+    "0-INBOX/temp/fix-backups-2026-10-13/dbu-ma-la-hjug-pa-bshad-pa.source.before-frontmatter.md",
     "2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-zab-rgyas.md",
     "2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-source-zab-rgyas.md",
     "2-RAILS/Sections/Raw/toc-qc/toc-tree-qc-source-shel-phreng.md",
@@ -254,16 +260,10 @@
     "0-INBOX/temp/fix-backups-2026-10-13/shel-phreng.source.before-empty-headings.md",
     "0-INBOX/temp/fix-backups-2026-10-13/bshad-pa.source.before.md",
     "0-INBOX/temp/fix-backups-2026-10-13",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md",
-    "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
-    "0-INBOX/temp/transclusion-zab-rgyas-report.md",
     "0-INBOX/temp/TOC-zab-rgyas/placements/extra_03.tsv",
     "0-INBOX/temp/TOC-zab-rgyas/placements/extra_02.tsv",
     "0-INBOX/temp/TOC-zab-rgyas/placements/extra_06.tsv",
     "0-INBOX/temp/TOC-zab-rgyas/placements/extra_07.tsv",
-    "0-INBOX/temp/TOC-zab-rgyas/placements/extra_04.tsv",
-    "0-INBOX/temp/TOC-zab-rgyas/placements/extra_05.tsv"
+    "0-INBOX/temp/TOC-zab-rgyas/placements/extra_04.tsv"
   ]
 }
