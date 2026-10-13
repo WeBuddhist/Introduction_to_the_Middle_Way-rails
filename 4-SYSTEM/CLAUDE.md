@@ -46,7 +46,7 @@ When this file and a folder README disagree, the folder README wins.
 
 Authority comes from the human commentary tradition, never from the LLM's parametric knowledge.
 
-**One vault per text.** This vault is for **[name of text]**. For vault-specific conventions (addressing scheme, registered commentary IDs, language tracks), see [`Guidelines/vault-annex.md`](Guidelines/vault-annex.md).
+**One vault per text.** This vault is for **Introduction to the Middle Way** (དབུ་མ་ལ་འཇུག་པ). For vault-specific conventions (addressing scheme, registered commentary IDs, language tracks), see [`Guidelines/vault-annex.md`](Guidelines/vault-annex.md).
 
 ---
 

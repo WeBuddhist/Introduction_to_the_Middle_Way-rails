@@ -1,96 +1,80 @@
-# Vault Annex — [text-slug] conventions
+# Vault Annex — Introduction to the Middle Way conventions
 
-The methodology guidelines (`0-VAULT-Structure.md`, `../../1-SOURCES/About Sources.md`, `../../2-RAILS/About Rails.md`, `../../3-TRANSFORMATIONS/About Transformations.md`) are **text-agnostic** — they apply to any Railroads vault built on any classical text. This annex records the conventions that are specific to *this* vault: **[name of text]**.
+The methodology guidelines (`0-VAULT-Structure.md`, `../../1-SOURCES/About Sources.md`, `../../2-RAILS/About Rails.md`, `../../3-TRANSFORMATIONS/About Transformations.md`) are **text-agnostic** — they apply to any Railroads vault built on any classical text. This annex records the conventions that are specific to *this* vault: **Introduction to the Middle Way** (དབུ་མ་ལ་འཇུག་པ).
 
 When the Guidelines and this annex disagree on a vault-specific detail, this annex wins — **for the points it actually states**. Everything it does not state follows the defaults unchanged.
 
 This file may be renamed for its text (`<text-slug>-annex.md`) as long as `README.md` and `4-SYSTEM/CLAUDE.md` link to it.
 
-> **Template instructions:** Fill in each section below, replacing all `[placeholder]` text. Delete this instruction block when done.
-
 ---
 
 ## 1. The text
 
-This vault serves **[name of text]** — [one-sentence description of the text and its tradition].
+This vault serves **Introduction to the Middle Way** (*དབུ་མ་ལ་འཇུག་པ*), a Tibetan-language Madhyamaka treatise whose own colophon (`^a-1`) names its author as སློབ་དཔོན་ཟླ་བ་གྲགས་པ, studied through four Tibetan commentaries.
 
 Source-text files in `1-SOURCES/Text/` correspond to the following books / volumes:
 
 | Order | Book / Volume | Filename |
 | ----- | ------------- | -------- |
-| 1 | [Title] | `[lang]-[slug].md` |
-| 2 | [Title] | `[lang]-[slug].md` |
+| 1 | དབུ་མ་ལ་འཇུག་པ། (11 chapters, plus an intro and a back-matter zone) | `དབུ་མ་འཇུག་པ།.md` |
 
-Only books that have been ingested are present in the folder. The primary text currently being railed out is **[book / chapter]**.
+Source filenames are kept in Tibetan script, exactly as ingested. This departs from the lowercase-hyphenated naming rule in `4-SYSTEM/CLAUDE.md` §4; the `registered_id` (§3) is the ASCII handle used everywhere in `2-RAILS/`.
+
+Only books that have been ingested are present in the folder. The primary text currently being railed out is **the whole of དབུ་མ་ལ་འཇུག་པ, chapters 1–11** — at present the TOC trees of the four commentaries (`2-RAILS/Sections/Raw/toc-tree/`).
 
 ---
 
 ## 2. Addressing scheme
 
-[Describe how block IDs are structured for this text. Use one of the standard schemes from `1-SOURCES/About Sources.md` §5, or document a custom scheme here if the text's structure requires it.]
+The root text is addressed by chapter and verse: `^chapter-verse`, with chapter numbers 1–11 and verse numbers counted from 1 inside each chapter. Two extra zones sit outside the chapters (see the registered deviation below).
 
-**`verse_id_format`:** `[chapter-verse | verse | book-chapter-verse | book-verse | custom]`
+**`verse_id_format`:** `chapter-verse`
 
-**Format example:** `^[example]`
+**Format example:** `^6-33` (chapter 6, block 33)
 
 ### Heading hierarchy
 
+Root text (`1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md`):
+
 | Markdown | Role | Anchor |
 | -------- | ---- | ------ |
-| `#` | [e.g. Piṭaka / collection] | `^[slug]-0` |
-| `##` | [e.g. Book / volume] | `^[book]-0` |
-| `###` | [e.g. Chapter / major section] | `^[book]-[ch]-0` |
-| `####` | [Sub-section] | `^[book]-[ch]-[s]-0` |
+| `##` | Title (`^0`), intro zone (`^I-0`), chapter (`^N-0`), back-matter zone (`^a-0`) | `^0`, `^I-0`, `^1-0` … `^11-0`, `^a-0` |
+| `###` | Sub-heading inside a zone (`^I-1-0`, `^I-2-0`, `^a-2-0`) | `^[zone]-[n]-0` |
+
+Commentaries follow the default convention in `annotation-conventions.md` §2: each `##` section carries a hand-assigned label (`^1-0`, `^I-0`, `^a-0`, …); every deeper heading takes the **full decimal path of the commentary's own TOC tree** plus the `-0` slot (for example `^3-2-1-3-2-2-3-5-0`), with no segment cap; body blocks are `^label-n`, counted from 1 inside the `##` section. A commentary's own `verse_id_format` is therefore `section-paragraph`.
 
 ### Verse numbering rule
 
-[Describe whether verse numbers restart at each chapter boundary, or run continuously through a book, and any exceptions. State the rule even when it is the default — a reader should not have to infer it.]
+Verse numbers restart at 1 in every chapter of the root text. Transclusion lines never take an ID and never advance a counter. Commentary body IDs restart at 1 in every `##` section.
 
 ### ⚑ Registered deviations — overrides of the default conventions
 
-[List every point where this vault departs from [`annotation-conventions.md`](annotation-conventions.md), one subsection each, with a date. A deviation that is not recorded here is a defect, not a convention. Delete this section if there are none.
+### ⚑ Intro / back-matter zones — overrides `annotation-conventions.md` §7 (registered 2026-10-13)
 
-Format each one as: what the default says, what this vault does instead, and **why** — the reason is what stops a later contributor "fixing" it back. For example:
+The default has chapters only. This vault keeps front matter and back matter addressable apart from the chapters:
 
-### ⚑ [Deviation name] — overrides `annotation-conventions.md` §[n] (registered [YYYY-MM-DD])
+- **Root text:** `^0` (title), `^I-1`–`^I-3` (Indian-language title, Tibetan title, homage to Mañjuśrī-kumārabhūta), `^a-1`–`^a-3` (author colophon, translation colophon, editorial note on the colophons). Headings `^I-0`, `^I-1-0`, `^I-2-0`, `^a-0`, `^a-2-0`.
+- **Commentaries:** `^I-*` for the opening homage and pledge to compose; `^a-*` for the closing dedication and colophon. `shel-phreng` also has `^b-*` (an appendix on difficult points) and `^c-*` (the closing statement of the commentary) because its own structure has those sections.
 
-[What the default rule is. What this vault does instead. Which files it applies to. Why the text's own structure requires it.]
+Why: the colophons carry author, translator and edition information that metadata and rails must cite apart from any chapter.
 
-The recognised deviation types are listed in `annotation-conventions.md` §7: intro / back-matter zones, Bible-style `book-verse`, letter sub-namespaces, and flat `^N` for collections.]
+### ⚑ `zab-rgyas` opens without a title or `##` heading — overrides `annotation-conventions.md` §1b/§2 (registered 2026-10-13)
+
+The file has no `#` title line and no `##` heading before its first section. Its twelve opening blocks (title line, homage, praise verses, statement of purpose) carry IDs `^0-1`–`^0-12` directly, ahead of the first `##` section `^1-0`. This is how the file was ingested; no heading was invented for it. A human contributor may decide to add a `##` heading with the label `0` later; doing so does not change any of those IDs.
 
 ### Re-segmentation and ID-migration log
 
-[Every change to an addressing scheme after rails already cited it. One dated entry each: what changed, where the pre-change file is kept, and what has to be re-checked.
+No rail in `2-RAILS/` cites any block ID of these files yet, so none of the changes below invalidate a citation.
 
-This section exists because a block ID is a citation. Re-segmenting a file silently invalidates every rail that cited it, and the only defence is a written record. Delete this section while the vault is new and nothing has been re-segmented.
+**2026-10-06 to 2026-10-13 — commentaries re-segmented and re-stamped (git history).** The four commentaries were re-segmented, given TOC headings and stamped with block IDs over this period; the intermediate versions I checked had no block IDs. The coworker's original imports (mostly line-per-clause) remain in git history from `8d78ebc` (2026-09-28).
 
-**[YYYY-MM-DD] [What changed].** [Which files. Where the backup lives, e.g. `0-INBOX/migration-backups/<date>/`. The consequence: "any rail written before this date that cites a block ID in these files is citing the old scheme and must be re-checked."]]
+**2026-10-13 — `shel-phreng` heading IDs re-nested.** The sections "གཙོ་བོར་འདོད་པ་འཐད་པའི་ཚུལ" and its two children were mis-nested in the TOC tree. The two child headings changed from `^3-2-1-1-2-2-2-3-1-1-1-1-2-2-2-2-2-1-2-2-2-1-1-0` and `…-1-2-0` to `…-2-1-0` and `…-2-2-0`. Backup: `0-INBOX/temp/fix-backups-2026-10-13/shel-phreng.source.before.md`.
 
----
+**2026-10-13 — empty headings inserted.** `zab-rgyas` `^3-2-1-1-2-3-5-2-2-2-2-1-4-0` and `shel-phreng` `^3-2-1-1-2-2-2-3-1-2-2-2-1-2-1-2-0`: both nodes are announced in the text but have no passage of their own, so they are empty sections. No existing ID changed. Backups: `0-INBOX/temp/fix-backups-2026-10-13/*.before-empty-headings.md`.
 
-## 2a. Canonical spine slots — *optional, only if this vault runs the claims pipeline*
+**2026-10-13 — `dbu-ma-la-hjug-pa-bshad-pa` body IDs renumbered.** 13 blocks had no ID; they were stamped and the body IDs in chapters 1, 3 and 6 were renumbered so each `##` section runs 1…N with no gaps (13 added, 517 changed; headings and text unchanged). Backup: `0-INBOX/temp/fix-backups-2026-10-13/bshad-pa.source.before.md`. Any note taken before this date that cites a body ID in chapter 1 (after `^1-26`), chapter 3 (after `^3-14`) or chapter 6 (after `^6-313`) of this file must be re-checked.
 
-[The **spine** is the root text's own structure expressed as a list of stable slot IDs. It is the shared coordinate system every commentary is mapped onto, and the unit that claims consolidation works in: one topic page per slot.
-
-**This registry is the only source of slot IDs.** A skill may not coin a slot locally; if a commentary needs one that is not listed here, a human contributor registers it here first. Slot IDs are stable forever — a topic page's filename comes from its slot, so renaming one orphans its page.
-
-### Spine-proper slots — derived from the root text's own structure
-
-| Slot | Root anchor | Content |
-| ---- | ----------- | ------- |
-| `[slot-id]` | `^[block-id]` | [what this slot holds] |
-
-### Global slots — recurring material outside the root's sequence
-
-[Bodies of commentarial material that are not root-text blocks: a commentary's own account of the text's structure, an origin narrative given as its own section, and so on. Added as the corpus is mapped, never invented per commentary.]
-
-| Slot | Content | First observed |
-| ---- | ------- | -------------- |
-| `[slot-id]` | [what it holds] | [where] |
-
-**Not every body of material belongs to a slot.** A commentary's front matter, colophon, ritual appendices and story collections are dispositioned as *unmapped nodes*. That is a legitimate outcome: the claims are preserved, they simply feed no topic page.
-
-**Granularity.** One slot per unit of the root's own structure, at whatever level keeps a topic page under roughly 40–50 claims. For a long treatise that is a chapter or a verse group; for a short praise it may be a single stanza.]
+**2026-10-13 — frontmatter added** to the root text and the four commentaries. Total line numbers shift by 13–17 lines; block IDs are unaffected.
 
 ---
 
@@ -102,15 +86,16 @@ Once assigned, a `registered_id` never changes. New commentaries must be added t
 
 | `registered_id` | Author / Title | Tier | School or tradition | `book_id` | Language | File |
 | --------------- | -------------- | ---- | ------------------- | --------- | -------- | ---- |
-| `[short-id]` | [Author, or the commentary's title] | [commentary \| sub-commentary \| …] | [School, or "unaffiliated"] | `[CODE]` | [Language] | `1-SOURCES/Commentaries/[lang]-[slug].md` |
+| `zab-rgyas` | ཐུབ་བསྟན་དགེ་ལེགས་རྒྱ་མཚོ — དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན། | commentary (its colophon, `^4-21`, says it expands the wording of དགོངས་པ་རབ་གསལ and another work) | to be supplied | to be supplied | Tibetan | `1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md` |
+| `shel-phreng` | སི་ཏུ་པ་ཆོས་ཀྱི་རྒྱ་མཚོ (compiler, from the notes of མི་ཕམ་འཇམ་དབྱངས་རྣམ་པར་རྒྱལ་བ) — དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་། | commentary | to be supplied | to be supplied | Tibetan | `1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md` |
+| `dgongs-pa-rab-gsal` | ཤར་ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པའི་དཔལ — དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ། | commentary | to be supplied | to be supplied | Tibetan | `1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་རྒྱ་ཆེར་བཤད་པ་དགོངས་པ་རབ་གསལ།.md` |
+| `dbu-ma-la-hjug-pa-bshad-pa` | author not named in the file — དབུ་མ་ལ་འཇུག་པའི་བཤད་པ། | commentary (the colophon, `^a-2`, records its translators) | to be supplied | to be supplied | Tibetan | `1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md` |
 
-Add a `Role` column where the commentaries do different jobs — annotation, story, scholarly exposition, word-commentary — because the verse-package skills need to know which commentary supplies which layer.
+"To be supplied" means the file does not state it; a human contributor fills these in. Authors above are taken from each file's own colophon, not from outside knowledge.
 
-**Tier ordering** within a verse package's Traditional Interpretation section: [describe the order commentaries are presented in].
+**Tier ordering** within a verse package's Traditional Interpretation section: not yet decided — to be set by a human contributor before the verse packages are built.
 
-Where the text has **no hierarchical commentary tradition** — a set of independent works from several schools, rather than one root commentary with sub-commentaries — say so and give a grouping rule instead (for example, by school in the order this roster lists them, and within a school by the roster's own order). Do not invent a "the real commentary is X" hierarchy that the tradition does not have.
-
-**ID migrations.** A `registered_id` never changes. If a human contributor directs one to change anyway — an author is identified, a placeholder is retired — record the migration here with its date, the old and new IDs, and confirmation that every live file and filename was migrated in one pass. The never-changes rule otherwise stands.
+**ID migrations.** None.
 
 ---
 
@@ -118,42 +103,25 @@ Where the text has **no hierarchical commentary tradition** — a set of indepen
 
 | Tag | Language | Translation track | Plan stream |
 | --- | -------- | ----------------- | ----------- |
-| `[src-tag]` | [Source language] | — (source) | `days/[tag]/` (if applicable) |
-| `[tgt-tag]` | [Target language 1] | `[lang]-[descriptor]/` | — |
-| `[tgt-tag]` | [Target language 2] | `[lang]-[descriptor]/` | — |
+| `bo` | Tibetan | — (source) | — |
+
+No translation tracks exist yet.
 
 ### Analysis language per rail section
 
-[State which language each part of `2-RAILS/` is written in. The default is: Traditional Interpretation paraphrases and Translation Notes in English, everything else — AI Overview, Disambiguated Restatement, Local-Wiki articles, Key Concepts — in the original language. Record here if this vault differs, and for which sections.]
-
-Each translation track's `requirements.md` is written in its own target language. New tracks are added by creating `Translations/[lang]-[descriptor]/` and running the `glossary-select` skill from the consolidated `2-RAILS/Bilingual-Glossaries/[src]-[tgt].md`.
+Not yet decided; the defaults in `4-SYSTEM/CLAUDE.md` §10 apply (English for the per-commentary paraphrases and translation notes, original language everywhere else).
 
 ---
 
 ## 5. Bilingual glossary pairs
 
-The consolidated bilingual glossaries in `2-RAILS/Bilingual-Glossaries/` cover the following source→target combinations:
-
-| File | Source language | Target language | Status |
-| ---- | --------------- | --------------- | ------ |
-| `[src]-[tgt].md` | [Source] | [Target] | `draft` |
+None yet.
 
 ---
 
 ## 6. Active transformation tracks
 
-| Track | Category | Status |
-| ----- | -------- | ------ |
-| `[lang]-[descriptor]` | Translation | `draft` |
-| `[plan-id]` | Plan | `draft` |
-
----
-
-## 6a. Sanctioned exceptions to the citation chain — *optional*
-
-[The citation chain (`1-SOURCES/ → 2-RAILS/ → 3-TRANSFORMATIONS/`) has no general exceptions. A specific, bounded one may be granted to a pipeline that carries an equivalent guarantee of its own — for example, a generator that reaches directly into `1-SOURCES/` but verifies every quotation character-for-character against its cited source before its output can pass.
-
-Record each one here: what reaches past the rails, what the substitute guarantee is, and which document governs that output instead of `About Transformations.md`. An exception that is not recorded here is a violation. Delete this section if there are none.]
+None yet.
 
 ---
 
@@ -161,9 +129,9 @@ Record each one here: what reaches past the rails, what the substitute guarantee
 
 | Tag | Script / System | Use in this vault |
 | --- | --------------- | ----------------- |
-| `-[tag]` | [Script] | [When used] |
+| `-bo` | Unicode Tibetan | The root text and all four commentaries |
 
-The default for every [language] source is `-[default-tag]`.
+The default for every Tibetan source is `-bo`.
 
 ---
 

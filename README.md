@@ -1,8 +1,6 @@
-# [text-slug]-rails
+# Introduction_to_the_Middle_Way-rails
 
 A collaborative [Obsidian](https://obsidian.md) vault that makes AI-powered work on a **classical text** reliable, traceable, and consistent at scale.
-
-> **Using this template:** Replace every `[text-slug]` placeholder with your text's slug (e.g. `bodhisattvacharyavatara`, `mulamadhyamakakarika`). Fill in the per-vault annex at `4-SYSTEM/Guidelines/vault-annex.md` with the conventions specific to your text. Then delete this note.
 
 ## Why
 
@@ -57,7 +55,7 @@ material         descriptive     AI-generated output
 - **[`3-TRANSFORMATIONS/`](3-TRANSFORMATIONS/)** — three categories of output (**Translations**, **Adaptations**, **Plans**). Each track is governed by `requirements.md` (style contract) + `termbase.md` (vocabulary contract); the AI-generated output files sit alongside, citing the rails.
 - **[`4-SYSTEM/`](4-SYSTEM/)** — skills and workflows for every stage of the pipeline, plus cross-cutting methodology docs and templates.
 
-This vault serves **[name of text]**. Vault-specific conventions (addressing scheme, registered commentary IDs, language tracks) live in [`4-SYSTEM/Guidelines/vault-annex.md`](4-SYSTEM/Guidelines/vault-annex.md).
+This vault serves **Introduction to the Middle Way** (དབུ་མ་ལ་འཇུག་པ). Vault-specific conventions (addressing scheme, registered commentary IDs, language tracks) live in [`4-SYSTEM/Guidelines/vault-annex.md`](4-SYSTEM/Guidelines/vault-annex.md).
 
 ## Getting started — pick your path
 
