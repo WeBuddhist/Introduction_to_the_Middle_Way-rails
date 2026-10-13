@@ -202,8 +202,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -229,6 +229,10 @@
   },
   "active": "1a7ed50a71ed46d1",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "0-INBOX/temp/transclusion-zab-rgyas-report.md",
     "0-INBOX/temp/TOC-zab-rgyas/headed.md",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
@@ -241,9 +245,6 @@
     "0-INBOX/temp/TOC-zab-rgyas/placements/extra_01.tsv",
     "1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md",
     "0-INBOX/temp/TOC-zab-rgyas/gap-prompt.md",
-    "0-INBOX/temp/TOC-zab-rgyas/gap-prompt.md.tmp.5736.ce8bba982ea0",
-    "0-INBOX/temp/TOC-zab-rgyas/keep.json",
-    "0-INBOX/temp/TOC-zab-rgyas/gaps.json",
     "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
     "0-INBOX/temp/TOC-zab-rgyas/place-prompt.md",
     "0-INBOX/temp/TOC-zab-rgyas/snapshot.md",
@@ -263,7 +264,6 @@
     "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_15.md",
     "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_14.md",
     "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_13.md",
-    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_12.md",
-    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_11.md"
+    "0-INBOX/temp/TOC-zab-rgyas/e2/slices/slice_12.md"
   ]
 }
