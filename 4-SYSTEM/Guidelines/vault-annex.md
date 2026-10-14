@@ -38,8 +38,11 @@ Root text (`1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md`):
 
 | Markdown | Role | Anchor |
 | -------- | ---- | ------ |
-| `##` | Title (`^0`), intro zone (`^I-0`), chapter (`^N-0`), back-matter zone (`^a-0`) | `^0`, `^I-0`, `^1-0` … `^11-0`, `^a-0` |
+| `#` | Title of the work | `^0` |
+| `##` | Intro zone (`^I-0`), chapter (`^N-0`), back-matter zone (`^a-0`) | `^I-0`, `^1-0` … `^11-0`, `^a-0` |
 | `###` | Sub-heading inside a zone (`^I-1-0`, `^I-2-0`, `^a-2-0`) | `^[zone]-[n]-0` |
+
+**The first heading of every source file — root text and commentaries — is the title of the work, written `#` and anchored `^0`** (e.g. `# ༄༅། །དབུ་མ་ལ་འཇུག་པ་ཞེས་བྱ་བ་བཞུགས་སོ། ། ^0`). This departs from `4-SYSTEM/CLAUDE.md` §5a, where the `#` title takes no block ID.
 
 Commentaries follow the default convention in `annotation-conventions.md` §2: each `##` section carries a hand-assigned label (`^1-0`, `^I-0`, `^a-0`, …); every deeper heading takes the **full decimal path of the commentary's own TOC tree** plus the `-0` slot (for example `^3-2-1-3-2-2-3-5-0`), with no segment cap; body blocks are `^label-n`, counted from 1 inside the `##` section. A commentary's own `verse_id_format` is therefore `section-paragraph`.
 
@@ -58,10 +61,6 @@ The default has chapters only. This vault keeps front matter and back matter add
 
 Why: the colophons carry author, translator and edition information that metadata and rails must cite apart from any chapter.
 
-### ⚑ `zab-rgyas` opens without a title or `##` heading — overrides `annotation-conventions.md` §1b/§2 (registered 2026-10-13)
-
-The file has no `#` title line and no `##` heading before its first section. Its twelve opening blocks (title line, homage, praise verses, statement of purpose) carry IDs `^0-1`–`^0-12` directly, ahead of the first `##` section `^1-0`. This is how the file was ingested; no heading was invented for it. A human contributor may decide to add a `##` heading with the label `0` later; doing so does not change any of those IDs.
-
 ### Re-segmentation and ID-migration log
 
 No rail in `2-RAILS/` cites any block ID of these files yet, so none of the changes below invalidate a citation.
@@ -75,6 +74,12 @@ No rail in `2-RAILS/` cites any block ID of these files yet, so none of the chan
 **2026-10-13 — `dbu-ma-la-hjug-pa-bshad-pa` body IDs renumbered.** 13 blocks had no ID; they were stamped and the body IDs in chapters 1, 3 and 6 were renumbered so each `##` section runs 1…N with no gaps (13 added, 517 changed; headings and text unchanged). Backup: `0-INBOX/temp/fix-backups-2026-10-13/bshad-pa.source.before.md`. Any note taken before this date that cites a body ID in chapter 1 (after `^1-26`), chapter 3 (after `^3-14`) or chapter 6 (after `^6-313`) of this file must be re-checked.
 
 **2026-10-13 — frontmatter added** to the root text and the four commentaries. Total line numbers shift by 13–17 lines; block IDs are unaffected.
+
+**2026-10-14 — `zab-rgyas` opening given a title and an `^I` zone.** Decided with the scholar colleague: the title line became the `#` heading `^0`, and the homage, praise verses, pledge and outline statement were put under `## མཆོད་བརྗོད་དང་རྩོམ་པར་དམ་བཅའ། ^I-0` (the same heading a contributor had used on 2026-10-12). IDs changed: `^0-1` → `^0` (title heading), `^0-2`–`^0-12` → `^I-1`–`^I-11`. Text unchanged. This retires the earlier registered deviation "`zab-rgyas` opens without a title or `##` heading" (2026-10-13). Backup: `0-INBOX/temp/fix-backups-2026-10-14/zab-rgyas.before-intro-ids.md`.
+
+**2026-10-14 — `shel-phreng` opening re-zoned.** The contributor added `## ཀླད་ཀྱི་དོན། ^I-0` under the `#` title, holding the commentary's Sanskrit title and Tibetan title as content (`^I-1`, `^I-2`; the `#` title stays as a heading copy), and relabelled the homage-and-pledge section `## འགྲེལ་བའི་མཆོད་བརྗོད་དང་རྩོམ་པར་དམ་བཅའ། ^II-0`. IDs changed: `^I-2`–`^I-6` → `^II-2`–`^II-6` (`^I-1` → `^II-1` by hand). So in `shel-phreng`, `^I-*` is the title zone and `^II-*` the homage and pledge. Backup: `0-INBOX/temp/fix-backups-2026-10-14/shel-phreng.before-intro-ids.md`.
+
+**2026-10-14 — `shel-phreng` split word rejoined; `## ^3` body IDs renumbered.** `^3-324` held only `ག` and `^3-325` began `ཉིས་པ།` — the word `གཉིས་པ།` had been split across two blocks by a processing step (the original import `8d78ebc` has it whole). The two were rejoined as one block `^3-324` (`གཉིས་པ། འབྱུང༷་བ༷་…`), and `^3-326`–`^3-592` became `^3-325`–`^3-591` (267 IDs, contributor's choice to keep 1…N without gaps). The same pass emptied 46 lines that held only a no-break space (U+00A0) — the linter read them as text, which glued headings into body blocks. Text otherwise unchanged. Backup: `0-INBOX/temp/fix-backups-2026-10-14/shel-phreng.before-mode5-and-merge.md`.
 
 ---
 

@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།.md",
+  "validated_at": "2026-10-14T09:10:10.385199+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: '0IZZVPv3OODR4cUOJfGZD'",
+    "root_text: '1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 33 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་བཤད་པ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": "0IZZVPv3OODR4cUOJfGZD",
+    "translation_of": null,
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}
