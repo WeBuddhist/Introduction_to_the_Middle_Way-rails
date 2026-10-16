@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
-  "validated_at": "2026-10-14T08:38:58.082943+00:00",
+  "validated_at": "2026-10-16T09:16:17.618051+00:00",
   "notes": [
     "bdrc_work_id: not set (optional)",
     "wiki: not set (optional)",
@@ -11,7 +11,7 @@
     "root_text: '1-SOURCES/Text/དབུ་མ་འཇུག་པ།.md'",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "toc: 593 headers found"
+    "toc: 592 headers found"
   ],
   "warnings": [
     "alt_titles: missing — ignored for now",

@@ -1,0 +1,38 @@
+{
+ "དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།": {
+  "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་ཊཱི་ཀ་ཟབ་རྒྱས་ལམ་མཆོག་རབ་གསལ་སྣང་བའི་རྒྱན།.md",
+  "receipts": [
+   {
+    "step": "toc-replace",
+    "toc_id": "4WsEucuG32e32fTYPIp9h",
+    "old": "vTh7yKs11HtXoONjGG42I",
+    "at": "2026-10-16T14:48:30"
+   }
+  ],
+  "replaced_tocs": [
+   {
+    "toc_id": "vTh7yKs11HtXoONjGG42I",
+    "replaced_at": "2026-10-16T14:48:30"
+   }
+  ],
+  "toc_id": "4WsEucuG32e32fTYPIp9h"
+ },
+ "དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།": {
+  "file": "1-SOURCES/Commentaries/དབུ་མ་ལ་འཇུག་པའི་འགྲེལ་བ་ཟླ་བའི་ཞལ་ལུང་དྲི་མེད་ཤེལ་ཕྲེང་།.md",
+  "receipts": [
+   {
+    "step": "toc-replace",
+    "toc_id": "kl8NrxgJAhpfwNSwu7mmX",
+    "old": "0kPJP4789eTLJoyPvr44k",
+    "at": "2026-10-16T14:48:34"
+   }
+  ],
+  "replaced_tocs": [
+   {
+    "toc_id": "0kPJP4789eTLJoyPvr44k",
+    "replaced_at": "2026-10-16T14:48:34"
+   }
+  ],
+  "toc_id": "kl8NrxgJAhpfwNSwu7mmX"
+ }
+}
